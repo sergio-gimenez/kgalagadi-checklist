@@ -61,6 +61,13 @@ h1 {
   color: var(--muted);
 }
 
+.visit-counter {
+  margin: 8px 0 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
 .panel,
 .summary-card,
 .family-block,

@@ -48,9 +48,10 @@ function init() {
 
   window.addEventListener('load', async () => {
     if ('serviceWorker' in navigator) {
-      await navigator.serviceWorker.register('./sw.js?v=5').catch(() => {});
+      await navigator.serviceWorker.register('./sw.js?v=6').catch(() => {});
     }
     prefetchImages();
+    fetchVisits();
   });
 }
 
@@ -338,6 +339,17 @@ function resetAll() {
   renderTracker();
   renderSummary();
   renderFamilies();
+}
+
+function fetchVisits() {
+  const el = document.querySelector('#visit-counter');
+  if (!el) return;
+  fetch('./api/visits')
+    .then((r) => r.json())
+    .then((d) => {
+      el.textContent = `~${d.visits} visitors · ${d.requests} requests (park access logs)`;
+    })
+    .catch(() => {});
 }
 
 function prefetchImages() {
