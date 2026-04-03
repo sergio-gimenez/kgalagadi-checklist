@@ -62,9 +62,12 @@ def wikipedia_summary(query: str) -> dict:
     return get_json(url, f"wiki-summary-{slugify(query)}.json")
 
 
-def inat_autocomplete(query: str) -> dict | None:
+def inat_autocomplete(query: str, locale: str | None = None) -> dict | None:
     url = "https://api.inaturalist.org/v1/taxa/autocomplete?q=" + urllib.parse.quote(query)
-    data = get_json(url, f"inat-autocomplete-{slugify(query)}.json")
+    if locale:
+        url += "&locale=" + locale
+    cache_key = f"inat-autocomplete-{slugify(query)}" + (f"-{locale}" if locale else "") + ".json"
+    data = get_json(url, cache_key)
     results = data.get("results", [])
     lowered = query.lower()
     for result in results:
@@ -136,11 +139,16 @@ def resolve_entry(entry: dict[str, str], category: str) -> dict[str, str]:
 
     photo_url = override_url
     family = entry.get("family", "")
-    if not photo_url or not family:
-        taxon = inat_autocomplete(scientific) or inat_autocomplete(english)
+    spanish = entry.get("spanish", "")
+
+    locale = "es" if category == "birds" else None
+    if not photo_url or not family or (category == "birds" and not spanish):
+        taxon = inat_autocomplete(scientific, locale) or inat_autocomplete(english, locale)
         if taxon:
             photo_url = photo_url or ((taxon.get("default_photo") or {}).get("medium_url") or "")
             family = family or inat_family(taxon["id"])
+            if category == "birds" and not spanish:
+                spanish = taxon.get("preferred_common_name", "") or ""
 
     if not photo_url:
         summary = wikipedia_summary(scientific)
@@ -167,8 +175,8 @@ def resolve_entry(entry: dict[str, str], category: str) -> dict[str, str]:
         "family": family,
         "image": image_path,
     }
-    if entry.get("spanish"):
-        result["spanish"] = entry["spanish"]
+    if spanish:
+        result["spanish"] = spanish
     if entry.get("roberts"):
         result["roberts"] = entry["roberts"]
     return result

@@ -480,6 +480,7 @@
       "scientific": "Ciconia abdimii",
       "family": "Ciconiidae",
       "image": "./assets/birds/abdims-stork.webp",
+      "spanish": "Cigüeña de Abdim",
       "roberts": "85"
     },
     {
@@ -488,6 +489,7 @@
       "scientific": "Tricholaema leucomelas",
       "family": "Lybiidae",
       "image": "./assets/birds/acacia-pied-barbet.webp",
+      "spanish": "Barbudo Pío",
       "roberts": "465"
     },
     {
@@ -496,6 +498,7 @@
       "scientific": "Crecopsis egregia",
       "family": "Rallidae",
       "image": "./assets/birds/african-crake.webp",
+      "spanish": "Guión Africano",
       "roberts": "212"
     },
     {
@@ -504,6 +507,7 @@
       "scientific": "Cuculus gularis",
       "family": "Cuculidae",
       "image": "./assets/birds/african-cuckoo.webp",
+      "spanish": "Cuco Barbiblanco",
       "roberts": "375"
     },
     {
@@ -512,6 +516,7 @@
       "scientific": "Haliaeetus vocifer",
       "family": "Accipitridae",
       "image": "./assets/birds/african-fish-eagle.webp",
+      "spanish": "Pigargo vocinglero",
       "roberts": "148"
     },
     {
@@ -520,6 +525,7 @@
       "scientific": "Tockus nasutus",
       "family": "Bucerotidae",
       "image": "./assets/birds/african-grey-hornbill.webp",
+      "spanish": "Toco Piquinegro",
       "roberts": "457"
     },
     {
@@ -528,6 +534,7 @@
       "scientific": "Polyboroides typus",
       "family": "Accipitridae",
       "image": "./assets/birds/african-harrier-hawk.webp",
+      "spanish": "Aguilucho Caricalvo Común",
       "roberts": "169"
     },
     {
@@ -536,6 +543,7 @@
       "scientific": "Upupa africana",
       "family": "Upupidae",
       "image": "./assets/birds/african-hoopoe.webp",
+      "spanish": "abubilla africana",
       "roberts": "451"
     },
     {
@@ -544,6 +552,7 @@
       "scientific": "Actophilornis africanus",
       "family": "Jacanidae",
       "image": "./assets/birds/african-jacana.webp",
+      "spanish": "Jacana africana",
       "roberts": "240"
     },
     {
@@ -552,6 +561,7 @@
       "scientific": "Terpsiphone viridis",
       "family": "Monarchidae",
       "image": "./assets/birds/african-paradise-flycatcher.webp",
+      "spanish": "Monarca Colilargo Africano",
       "roberts": "710"
     },
     {
@@ -560,6 +570,7 @@
       "scientific": "Ortygospiza atricollis",
       "family": "Estrildidae",
       "image": "./assets/birds/african-quailfinch.webp",
+      "spanish": "Estrilda Codorniz",
       "roberts": "852"
     },
     {
@@ -568,6 +579,7 @@
       "scientific": "Pycnonotus nigricans",
       "family": "Pycnonotidae",
       "image": "./assets/birds/african-red-eyed-bulbul.webp",
+      "spanish": "Bulbul Encapuchado",
       "roberts": "567"
     },
     {
@@ -576,6 +588,7 @@
       "scientific": "Acrocephalus baeticatus",
       "family": "Acrocephalidae",
       "image": "./assets/birds/african-reed-warbler.webp",
+      "spanish": "Carricero Común",
       "roberts": "631"
     },
     {
@@ -584,6 +597,7 @@
       "scientific": "Threskiornis aethiopicus",
       "family": "Threskiornithidae",
       "image": "./assets/birds/african-sacred-ibis.webp",
+      "spanish": "ibis sagrado",
       "roberts": "91"
     },
     {
@@ -592,6 +606,7 @@
       "scientific": "Otus senegalensis",
       "family": "Strigidae",
       "image": "./assets/birds/african-scops-owl.webp",
+      "spanish": "Autillo africano",
       "roberts": "396"
     },
     {
@@ -600,6 +615,7 @@
       "scientific": "Platalea alba",
       "family": "Threskiornithidae",
       "image": "./assets/birds/african-spoonbill.webp",
+      "spanish": "Espátula Africana",
       "roberts": "95"
     },
     {
@@ -608,6 +624,7 @@
       "scientific": "Saxicola torquatus",
       "family": "Muscicapidae",
       "image": "./assets/birds/african-stonechat.webp",
+      "spanish": "Tarabilla Africana",
       "roberts": "596"
     },
     {
@@ -616,6 +633,7 @@
       "scientific": "Porphyrio madagascariensis",
       "family": "Rallidae",
       "image": "./assets/birds/african-swamphen.webp",
+      "spanish": "Calamón Africano",
       "roberts": "223"
     },
     {
@@ -624,6 +642,7 @@
       "scientific": "Tachymarptis melba",
       "family": "Apodidae",
       "image": "./assets/birds/alpine-swift.webp",
+      "spanish": "Vencejo Alpino",
       "roberts": "418"
     },
     {
@@ -632,6 +651,7 @@
       "scientific": "Falco amurensis",
       "family": "Falconidae",
       "image": "./assets/birds/amur-falcon.webp",
+      "spanish": "Cernícalo de Amur",
       "roberts": "180"
     },
     {
@@ -640,6 +660,7 @@
       "scientific": "Myrmecocichla formicivora",
       "family": "Muscicapidae",
       "image": "./assets/birds/ant-eating-chat.webp",
+      "spanish": "zorzal hormiguero meridional",
       "roberts": "595"
     },
     {
@@ -648,6 +669,7 @@
       "scientific": "Parus cinerascens",
       "family": "Paridae",
       "image": "./assets/birds/ashy-tit.webp",
+      "spanish": "Carbonero cinéreo",
       "roberts": "552"
     },
     {
@@ -656,6 +678,7 @@
       "scientific": "Hirundo rustica",
       "family": "Hirundinidae",
       "image": "./assets/birds/barn-swallow.webp",
+      "spanish": "Golondrina tijereta",
       "roberts": "518"
     },
     {
@@ -664,6 +687,7 @@
       "scientific": "Terathopius ecaudatus",
       "family": "Accipitridae",
       "image": "./assets/birds/bateleur.webp",
+      "spanish": "Águila volatinera",
       "roberts": "146"
     },
     {
@@ -672,6 +696,7 @@
       "scientific": "Dendropicos namaquus",
       "family": "Picidae",
       "image": "./assets/birds/bearded-woodpecker.webp",
+      "spanish": "Pico Barbudo",
       "roberts": "487"
     },
     {
@@ -680,6 +705,7 @@
       "scientific": "Campethera bennettii",
       "family": "Picidae",
       "image": "./assets/birds/bennetts-woodpecker.webp",
+      "spanish": "pito de Bennett",
       "roberts": "481"
     },
     {
@@ -688,6 +714,7 @@
       "scientific": "Prinia flavicans",
       "family": "Cisticolidae",
       "image": "./assets/birds/black-chested-prinia.webp",
+      "spanish": "Prinia Pechinegra",
       "roberts": "685"
     },
     {
@@ -696,6 +723,7 @@
       "scientific": "Circaetus pectoralis",
       "family": "Accipitridae",
       "image": "./assets/birds/black-chested-snake-eagle.webp",
+      "spanish": "Culebrera pechinegra",
       "roberts": "143"
     },
     {
@@ -704,6 +732,7 @@
       "scientific": "Eremopterix australis",
       "family": "Alaudidae",
       "image": "./assets/birds/black-eared-sparrow-lark.webp",
+      "spanish": "Alondra de Orejas Negras",
       "roberts": "517"
     },
     {
@@ -712,6 +741,7 @@
       "scientific": "Estrilda erythronotos",
       "family": "Estrildidae",
       "image": "./assets/birds/black-faced-waxbill.webp",
+      "spanish": "Estrilda Carinegra",
       "roberts": "847"
     },
     {
@@ -720,6 +750,7 @@
       "scientific": "Circus maurus",
       "family": "Accipitridae",
       "image": "./assets/birds/black-harrier.webp",
+      "spanish": "Aguilucho negro",
       "roberts": "168"
     },
     {
@@ -728,6 +759,7 @@
       "scientific": "Serinus alario",
       "family": "Fringillidae",
       "image": "./assets/birds/black-headed-canary.webp",
+      "spanish": "Serín Alario",
       "roberts": "876"
     },
     {
@@ -736,6 +768,7 @@
       "scientific": "Ardea melanocephala",
       "family": "Ardeidae",
       "image": "./assets/birds/black-headed-heron.webp",
+      "spanish": "garza de cabeza negra",
       "roberts": "63"
     },
     {
@@ -744,6 +777,7 @@
       "scientific": "Milvus migrans",
       "family": "Accipitridae",
       "image": "./assets/birds/black-kite.webp",
+      "spanish": "Milano negro",
       "roberts": "126"
     },
     {
@@ -752,6 +786,7 @@
       "scientific": "Ciconia nigra",
       "family": "Ciconiidae",
       "image": "./assets/birds/black-stork.webp",
+      "spanish": "Cigüeña negra",
       "roberts": "84"
     },
     {
@@ -760,6 +795,7 @@
       "scientific": "Crithagra atrogularis",
       "family": "Fringillidae",
       "image": "./assets/birds/black-throated-canary.webp",
+      "spanish": "Serín Gorjinegro",
       "roberts": "870"
     },
     {
@@ -768,6 +804,7 @@
       "scientific": "Elanus caeruleus",
       "family": "Accipitridae",
       "image": "./assets/birds/black-winged-kite.webp",
+      "spanish": "Milano de alas negras",
       "roberts": "127"
     },
     {
@@ -776,6 +813,7 @@
       "scientific": "Glareola nordmanni",
       "family": "Glareolidae",
       "image": "./assets/birds/black-winged-pratincole.webp",
+      "spanish": "Canastera Alinegra",
       "roberts": "305"
     },
     {
@@ -784,6 +822,7 @@
       "scientific": "Himantopus himantopus",
       "family": "Recurvirostridae",
       "image": "./assets/birds/black-winged-stilt.webp",
+      "spanish": "cigüeñuela común",
       "roberts": "295"
     },
     {
@@ -792,6 +831,7 @@
       "scientific": "Vanellus armatus",
       "family": "Charadriidae",
       "image": "./assets/birds/blacksmith-lapwing.webp",
+      "spanish": "Avefría Armada",
       "roberts": "258"
     },
     {
@@ -800,6 +840,7 @@
       "scientific": "Telophorus zeylonus",
       "family": "Malaconotidae",
       "image": "./assets/birds/bokmakierie.webp",
+      "spanish": "bubú silbón",
       "roberts": "746"
     },
     {
@@ -808,6 +849,7 @@
       "scientific": "Aquila pennatus",
       "family": "Accipitridae",
       "image": "./assets/birds/booted-eagle.webp",
+      "spanish": "Águila Calzada",
       "roberts": "136"
     },
     {
@@ -816,6 +858,7 @@
       "scientific": "Apus bradfieldi",
       "family": "Apodidae",
       "image": "./assets/birds/bradfields-swift.webp",
+      "spanish": "Vencejo de Namibia",
       "roberts": "413"
     },
     {
@@ -824,6 +867,7 @@
       "scientific": "Rhinoptilus chalcopterus",
       "family": "Glareolidae",
       "image": "./assets/birds/bronze-winged-courser.webp",
+      "spanish": "Corredor Patirrojo",
       "roberts": "303"
     },
     {
@@ -832,6 +876,7 @@
       "scientific": "Tchagra australis",
       "family": "Malaconotidae",
       "image": "./assets/birds/brown-crowned-tchagra.webp",
+      "spanish": "Chagra Coroniparda",
       "roberts": "743"
     },
     {
@@ -840,6 +885,7 @@
       "scientific": "Circaetus cinereus",
       "family": "Accipitridae",
       "image": "./assets/birds/brown-snake-eagle.webp",
+      "spanish": "Culebrera sombría",
       "roberts": "142"
     },
     {
@@ -848,6 +894,7 @@
       "scientific": "Riparia paludicola",
       "family": "Hirundinidae",
       "image": "./assets/birds/brown-throated-martin.webp",
+      "spanish": "Avión Paludícola",
       "roberts": "533"
     },
     {
@@ -856,6 +903,7 @@
       "scientific": "Nilaus afer",
       "family": "Malaconotidae",
       "image": "./assets/birds/brubru.webp",
+      "spanish": "Brubrú",
       "roberts": "741"
     },
     {
@@ -864,6 +912,7 @@
       "scientific": "Sarothrura elegans",
       "family": "Sarothruridae",
       "image": "./assets/birds/buff-spotted-flufftail.webp",
+      "spanish": "Polluela Elegante",
       "roberts": "218"
     },
     {
@@ -872,6 +921,7 @@
       "scientific": "Anthus vaalensis",
       "family": "Motacillidae",
       "image": "./assets/birds/buffy-pipit.webp",
+      "spanish": "Bisbita del Vaal",
       "roberts": "719"
     },
     {
@@ -880,6 +930,7 @@
       "scientific": "Centropus burchellii",
       "family": "Cuculidae",
       "image": "./assets/birds/burchells-coucal.webp",
+      "spanish": "Cucal de Burchell",
       "roberts": "391"
     },
     {
@@ -888,6 +939,7 @@
       "scientific": "Cursorius rufus",
       "family": "Glareolidae",
       "image": "./assets/birds/burchells-courser.webp",
+      "spanish": "Corredor Rufo",
       "roberts": "299"
     },
     {
@@ -896,6 +948,7 @@
       "scientific": "Pterocles burchelli",
       "family": "Pteroclidae",
       "image": "./assets/birds/burchells-sandgrouse.webp",
+      "spanish": "Ganga Goteada",
       "roberts": "345"
     },
     {
@@ -904,6 +957,7 @@
       "scientific": "Lamprotornis australis",
       "family": "Sturnidae",
       "image": "./assets/birds/burchells-starling.webp",
+      "spanish": "Estornino de Burchell",
       "roberts": "762"
     },
     {
@@ -912,6 +966,7 @@
       "scientific": "Mirafra apiata",
       "family": "Alaudidae",
       "image": "./assets/birds/cape-clapper-lark.webp",
+      "spanish": "Alondra Aplaudidora de El Cabo",
       "roberts": "495"
     },
     {
@@ -920,6 +975,7 @@
       "scientific": "Corvus capensis",
       "family": "Corvidae",
       "image": "./assets/birds/cape-crow.webp",
+      "spanish": "Cuervo de El Cabo",
       "roberts": "547"
     },
     {
@@ -928,6 +984,7 @@
       "scientific": "Lamprotornis nitens",
       "family": "Sturnidae",
       "image": "./assets/birds/cape-glossy-starling.webp",
+      "spanish": "Estornino de El Cabo",
       "roberts": "764"
     },
     {
@@ -936,6 +993,7 @@
       "scientific": "Anthoscopus minutus",
       "family": "Remizidae",
       "image": "./assets/birds/cape-penduline-tit.webp",
+      "spanish": "Pájaro Moscón de El Cabo",
       "roberts": "557"
     },
     {
@@ -944,6 +1002,7 @@
       "scientific": "Anas smithii",
       "family": "Anatidae",
       "image": "./assets/birds/cape-shoveler.webp",
+      "spanish": "Cuchara de El Cabo",
       "roberts": "112"
     },
     {
@@ -952,6 +1011,7 @@
       "scientific": "Passer melanurus",
       "family": "Passeridae",
       "image": "./assets/birds/cape-sparrow.webp",
+      "spanish": "Gorrión de El Cabo",
       "roberts": "803"
     },
     {
@@ -960,6 +1020,7 @@
       "scientific": "Anas capensis",
       "family": "Anatidae",
       "image": "./assets/birds/cape-teal.webp",
+      "spanish": "Pato de El Cabo",
       "roberts": "106"
     },
     {
@@ -968,6 +1029,7 @@
       "scientific": "Gyps coprotheres",
       "family": "Accipitridae",
       "image": "./assets/birds/cape-vulture.webp",
+      "spanish": "Buitre el cabo",
       "roberts": "122"
     },
     {
@@ -976,6 +1038,7 @@
       "scientific": "Motacilla capensis",
       "family": "Motacillidae",
       "image": "./assets/birds/cape-wagtail.webp",
+      "spanish": "Lavandera de El Cabo",
       "roberts": "713"
     },
     {
@@ -984,6 +1047,7 @@
       "scientific": "Zosterops virens",
       "family": "Zosteropidae",
       "image": "./assets/birds/cape-white-eye.webp",
+      "spanish": "anteojitos de El Cabo",
       "roberts": "796"
     },
     {
@@ -992,6 +1056,7 @@
       "scientific": "Oenanthe pileata",
       "family": "Muscicapidae",
       "image": "./assets/birds/capped-wheatear.webp",
+      "spanish": "Collalba Capirotada",
       "roberts": "587"
     },
     {
@@ -1000,6 +1065,7 @@
       "scientific": "Dendropicos fuscescens",
       "family": "Picidae",
       "image": "./assets/birds/cardinal-woodpecker.webp",
+      "spanish": "Carpintero Cardenal",
       "roberts": "486"
     },
     {
@@ -1008,6 +1074,7 @@
       "scientific": "Ardea ibis",
       "family": "Ardeidae",
       "image": "./assets/birds/cattle-egret.webp",
+      "spanish": "Garza ganadera occidental",
       "roberts": "71"
     },
     {
@@ -1016,6 +1083,7 @@
       "scientific": "Bradornis infuscatus",
       "family": "Muscicapidae",
       "image": "./assets/birds/chat-flycatcher.webp",
+      "spanish": "Papamoscas Tarabilla",
       "roberts": "697"
     },
     {
@@ -1024,6 +1092,7 @@
       "scientific": "Eremopterix leucotis",
       "family": "Alaudidae",
       "image": "./assets/birds/chestnut-backed-sparrow-lark.webp",
+      "spanish": "Terrera Orejiblanca",
       "roberts": "515"
     },
     {
@@ -1032,6 +1101,7 @@
       "scientific": "Emberiza tahapisi",
       "family": "Emberizidae",
       "image": "./assets/birds/cinnamon-breasted-bunting.webp",
+      "spanish": "Escribano Canelo",
       "roberts": "886"
     },
     {
@@ -1040,6 +1110,7 @@
       "scientific": "Cuculus canorus",
       "family": "Cuculidae",
       "image": "./assets/birds/common-cuckoo.webp",
+      "spanish": "Cuco",
       "roberts": "374"
     },
     {
@@ -1048,6 +1119,7 @@
       "scientific": "Tringa nebularia",
       "family": "Scolopacidae",
       "image": "./assets/birds/common-greenshank.webp",
+      "spanish": "Archibebe claro",
       "roberts": "270"
     },
     {
@@ -1056,6 +1128,7 @@
       "scientific": "Struthio camelus",
       "family": "Struthionidae",
       "image": "./assets/birds/common-ostrich.webp",
+      "spanish": "Avestruz",
       "roberts": "1"
     },
     {
@@ -1064,6 +1137,7 @@
       "scientific": "Coturnix coturnix",
       "family": "Phasianidae",
       "image": "./assets/birds/common-quail.webp",
+      "spanish": "Codorniz común",
       "roberts": "200"
     },
     {
@@ -1072,6 +1146,7 @@
       "scientific": "Phoenicurus phoenicurus",
       "family": "Muscicapidae",
       "image": "./assets/birds/common-redstart.webp",
+      "spanish": "Colirrojo real",
       "roberts": "584"
     },
     {
@@ -1080,6 +1155,7 @@
       "scientific": "Actitis hypoleucos",
       "family": "Scolopacidae",
       "image": "./assets/birds/common-sandpiper.webp",
+      "spanish": "andarríos chico",
       "roberts": "264"
     },
     {
@@ -1088,6 +1164,7 @@
       "scientific": "Rhinopomastus cyanomelas",
       "family": "Phoeniculidae",
       "image": "./assets/birds/common-scimitarbill.webp",
+      "spanish": "Abubilla Arbórea Cimitarra",
       "roberts": "454"
     },
     {
@@ -1096,6 +1173,7 @@
       "scientific": "Sturnus vulgaris",
       "family": "Sturnidae",
       "image": "./assets/birds/common-starling.webp",
+      "spanish": "Estornino pinto eurasiático",
       "roberts": "757"
     },
     {
@@ -1104,6 +1182,7 @@
       "scientific": "Apus apus",
       "family": "Apodidae",
       "image": "./assets/birds/common-swift.webp",
+      "spanish": "Vencejo común",
       "roberts": "411"
     },
     {
@@ -1112,6 +1191,7 @@
       "scientific": "Estrilda astrild",
       "family": "Estrildidae",
       "image": "./assets/birds/common-waxbill.webp",
+      "spanish": "Pico de coral",
       "roberts": "846"
     },
     {
@@ -1120,6 +1200,7 @@
       "scientific": "Laniarius atrococcineus",
       "family": "Malaconotidae",
       "image": "./assets/birds/crimson-breasted-shrike.webp",
+      "spanish": "bubú pechirrojo",
       "roberts": "739"
     },
     {
@@ -1128,6 +1209,7 @@
       "scientific": "Vanellus coronatus",
       "family": "Charadriidae",
       "image": "./assets/birds/crowned-lapwing.webp",
+      "spanish": "Avefría Coronada",
       "roberts": "255"
     },
     {
@@ -1136,6 +1218,7 @@
       "scientific": "Calidris ferruginea",
       "family": "Scolopacidae",
       "image": "./assets/birds/curlew-sandpiper.webp",
+      "spanish": "Playero Zarapito",
       "roberts": "272"
     },
     {
@@ -1144,6 +1227,7 @@
       "scientific": "Cisticola aridulus",
       "family": "Cisticolidae",
       "image": "./assets/birds/desert-cisticola.webp",
+      "spanish": "Cistícola del Kalahari",
       "roberts": "665"
     },
     {
@@ -1152,6 +1236,7 @@
       "scientific": "Chrysococcyx caprius",
       "family": "Cuculidae",
       "image": "./assets/birds/diederik-cuckoo.webp",
+      "spanish": "Cuclillo Didric",
       "roberts": "386"
     },
     {
@@ -1160,6 +1245,7 @@
       "scientific": "Rhinoptilus africanus",
       "family": "Glareolidae",
       "image": "./assets/birds/double-banded-courser.webp",
+      "spanish": "Corredor escamoso chico",
       "roberts": "301"
     },
     {
@@ -1168,6 +1254,7 @@
       "scientific": "Pinarocorys nigricans",
       "family": "Alaudidae",
       "image": "./assets/birds/dusky-lark.webp",
+      "spanish": "Alondra Oscura",
       "roberts": "505"
     },
     {
@@ -1176,6 +1263,7 @@
       "scientific": "Cinnyris fuscus",
       "family": "Nectariniidae",
       "image": "./assets/birds/dusky-sunbird.webp",
+      "spanish": "Suimanga oscuro",
       "roberts": "788"
     },
     {
@@ -1184,6 +1272,7 @@
       "scientific": "Ixobrychus sturmii",
       "family": "Ardeidae",
       "image": "./assets/birds/dwarf-bittern.webp",
+      "spanish": "Avetorillo Plomizo",
       "roberts": "79"
     },
     {
@@ -1192,6 +1281,7 @@
       "scientific": "Alopochen aegyptiaca",
       "family": "Anatidae",
       "image": "./assets/birds/egyptian-goose.webp",
+      "spanish": "Ganso egipcio",
       "roberts": "102"
     },
     {
@@ -1200,6 +1290,7 @@
       "scientific": "Numenius arquata",
       "family": "Scolopacidae",
       "image": "./assets/birds/eurasian-curlew.webp",
+      "spanish": "Zarapito real",
       "roberts": "289"
     },
     {
@@ -1208,6 +1299,7 @@
       "scientific": "Oriolus oriolus",
       "family": "Oriolidae",
       "image": "./assets/birds/eurasian-golden-oriole.webp",
+      "spanish": "Oropéndola europea",
       "roberts": "543"
     },
     {
@@ -1216,6 +1308,7 @@
       "scientific": "Falco subbuteo",
       "family": "Falconidae",
       "image": "./assets/birds/eurasian-hobby.webp",
+      "spanish": "Alcotán europeo",
       "roberts": "173"
     },
     {
@@ -1224,6 +1317,7 @@
       "scientific": "Acrocephalus schoenobaenus",
       "family": "Acrocephalidae",
       "image": "./assets/birds/eurasian-sedge-warbler.webp",
+      "spanish": "Carricerín Común",
       "roberts": "634"
     },
     {
@@ -1232,6 +1326,7 @@
       "scientific": "Numenius phaeopus",
       "family": "Scolopacidae",
       "image": "./assets/birds/eurasian-whimbrel.webp",
+      "spanish": "Zarapito Trinador",
       "roberts": "290"
     },
     {
@@ -1240,6 +1335,7 @@
       "scientific": "Merops apiaster",
       "family": "Meropidae",
       "image": "./assets/birds/european-bee-eater.webp",
+      "spanish": "Abejaruco Europeo",
       "roberts": "438"
     },
     {
@@ -1248,6 +1344,7 @@
       "scientific": "Caprimulgus europaeus",
       "family": "Caprimulgidae",
       "image": "./assets/birds/european-nightjar.webp",
+      "spanish": "Chotacabras Europeo",
       "roberts": "404"
     },
     {
@@ -1256,6 +1353,7 @@
       "scientific": "Coracias caudatus",
       "family": "Coraciidae",
       "image": "./assets/birds/european-roller.webp",
+      "spanish": "carraca lila",
       "roberts": "446"
     },
     {
@@ -1264,6 +1362,7 @@
       "scientific": "Stenostira scita",
       "family": "Stenostiridae",
       "image": "./assets/birds/fairy-flycatcher.webp",
+      "spanish": "Papamoscas acollarado",
       "roberts": "706"
     },
     {
@@ -1272,6 +1371,7 @@
       "scientific": "Cercomela familiaris",
       "family": "Muscicapidae",
       "image": "./assets/birds/familiar-chat.webp",
+      "spanish": "Colinegro Familiar",
       "roberts": "589"
     },
     {
@@ -1280,6 +1380,7 @@
       "scientific": "Calendulauda africanoides",
       "family": "Alaudidae",
       "image": "./assets/birds/fawn-coloured-lark.webp",
+      "spanish": "Alondra Leonada",
       "roberts": "497"
     },
     {
@@ -1288,6 +1389,7 @@
       "scientific": "Sigelus silens",
       "family": "Muscicapidae",
       "image": "./assets/birds/fiscal-flycatcher.webp",
+      "spanish": "papamoscas fiscal",
       "roberts": "698"
     },
     {
@@ -1296,6 +1398,7 @@
       "scientific": "Melierax gabar",
       "family": "Accipitridae",
       "image": "./assets/birds/gabar-goshawk.webp",
+      "spanish": "Gavilán gabar",
       "roberts": "161"
     },
     {
@@ -1304,6 +1407,7 @@
       "scientific": "Plegadis falcinellus",
       "family": "Threskiornithidae",
       "image": "./assets/birds/glossy-ibis.webp",
+      "spanish": "Ibis cara oscura",
       "roberts": "93"
     },
     {
@@ -1312,6 +1416,7 @@
       "scientific": "Emberiza flaviventris",
       "family": "Emberizidae",
       "image": "./assets/birds/golden-breasted-bunting.webp",
+      "spanish": "Escribano Pechidorado",
       "roberts": "884"
     },
     {
@@ -1320,6 +1425,7 @@
       "scientific": "Campethera abingoni",
       "family": "Picidae",
       "image": "./assets/birds/golden-tailed-woodpecker.webp",
+      "spanish": "Pito Colidorado",
       "roberts": "483"
     },
     {
@@ -1328,6 +1434,7 @@
       "scientific": "Egretta alba",
       "family": "Ardeidae",
       "image": "./assets/birds/great-egret.webp",
+      "spanish": "Garza blanca",
       "roberts": "66"
     },
     {
@@ -1336,6 +1443,7 @@
       "scientific": "Passer motitensis",
       "family": "Passeridae",
       "image": "./assets/birds/great-sparrow.webp",
+      "spanish": "Gorrión Grande",
       "roberts": "802"
     },
     {
@@ -1344,6 +1452,7 @@
       "scientific": "Clamator glandarius",
       "family": "Cuculidae",
       "image": "./assets/birds/great-spotted-cuckoo.webp",
+      "spanish": "Críalo europeo",
       "roberts": "380"
     },
     {
@@ -1352,6 +1461,7 @@
       "scientific": "Falco rupicoloides",
       "family": "Falconidae",
       "image": "./assets/birds/greater-kestrel.webp",
+      "spanish": "Cernícalo Ojiblanco",
       "roberts": "182"
     },
     {
@@ -1360,6 +1470,7 @@
       "scientific": "Rostratula benghalensis",
       "family": "Rostratulidae",
       "image": "./assets/birds/greater-painted-snipe.webp",
+      "spanish": "Aguatero Begalí",
       "roberts": "242"
     },
     {
@@ -1368,6 +1479,7 @@
       "scientific": "Hirundo cucullata",
       "family": "Hirundinidae",
       "image": "./assets/birds/greater-striped-swallow.webp",
+      "spanish": "Golondrina Cabecirrufa",
       "roberts": "526"
     },
     {
@@ -1376,6 +1488,7 @@
       "scientific": "Pytilia melba",
       "family": "Estrildidae",
       "image": "./assets/birds/green-winged-pytilia.webp",
+      "spanish": "Estrilda Melba",
       "roberts": "834"
     },
     {
@@ -1384,6 +1497,7 @@
       "scientific": "Phoeniculus purpureus",
       "family": "Phoeniculidae",
       "image": "./assets/birds/green-wood-hoopoe.webp",
+      "spanish": "Abubilla Arbórea Verde",
       "roberts": "452"
     },
     {
@@ -1392,6 +1506,7 @@
       "scientific": "Eremopterix verticalis",
       "family": "Alaudidae",
       "image": "./assets/birds/grey-backed-sparrow-lark.webp",
+      "spanish": "Alondra de Lomo Gris",
       "roberts": "516"
     },
     {
@@ -1400,6 +1515,7 @@
       "scientific": "Corythaixoides concolor",
       "family": "Musophagidae",
       "image": "./assets/birds/grey-go-away-bird.webp",
+      "spanish": "turaco gris",
       "roberts": "373"
     },
     {
@@ -1408,6 +1524,7 @@
       "scientific": "Halcyon leucocephala",
       "family": "Alcedinidae",
       "image": "./assets/birds/grey-headed-kingfisher.webp",
+      "spanish": "Alción Cabeciblanco",
       "roberts": "436"
     },
     {
@@ -1416,6 +1533,7 @@
       "scientific": "Ardea cinerea",
       "family": "Ardeidae",
       "image": "./assets/birds/grey-heron.webp",
+      "spanish": "Garza gris",
       "roberts": "62"
     },
     {
@@ -1424,6 +1542,7 @@
       "scientific": "Pluvialis squatarola",
       "family": "Charadriidae",
       "image": "./assets/birds/grey-plover.webp",
+      "spanish": "Chorlo Gris",
       "roberts": "254"
     },
     {
@@ -1432,6 +1551,7 @@
       "scientific": "Motacilla cinerea",
       "family": "Motacillidae",
       "image": "./assets/birds/grey-wagtail.webp",
+      "spanish": "lavandera cascadeña",
       "roberts": "715"
     },
     {
@@ -1440,6 +1560,7 @@
       "scientific": "Psophocichla litsitsirupa",
       "family": "Turdidae",
       "image": "./assets/birds/groundscraper-thrush.webp",
+      "spanish": "Zorzal litsitsirupa",
       "roberts": "580"
     },
     {
@@ -1448,6 +1569,7 @@
       "scientific": "Scopus umbretta",
       "family": "Scopidae",
       "image": "./assets/birds/hamerkop.webp",
+      "spanish": "Avemartillo",
       "roberts": "81"
     },
     {
@@ -1456,6 +1578,7 @@
       "scientific": "Coturnix delegorguei",
       "family": "Phasianidae",
       "image": "./assets/birds/harlequin-quail.webp",
+      "spanish": "Codorniz Arlequín",
       "roberts": "201"
     },
     {
@@ -1464,6 +1587,7 @@
       "scientific": "Numida meleagris",
       "family": "Numididae",
       "image": "./assets/birds/helmeted-guineafowl.webp",
+      "spanish": "Gallina de Guinea",
       "roberts": "203"
     },
     {
@@ -1472,6 +1596,7 @@
       "scientific": "Necrosyrtes monachus",
       "family": "Accipitridae",
       "image": "./assets/birds/hooded-vulture.webp",
+      "spanish": "Alimoche sombrío",
       "roberts": "121"
     },
     {
@@ -1480,6 +1605,7 @@
       "scientific": "Passer domesticus",
       "family": "Passeridae",
       "image": "./assets/birds/house-sparrow.webp",
+      "spanish": "Gorrión Doméstico",
       "roberts": "801"
     },
     {
@@ -1488,6 +1614,7 @@
       "scientific": "Hippolais icterina",
       "family": "Acrocephalidae",
       "image": "./assets/birds/icterine-warbler.webp",
+      "spanish": "Zarcero icterino",
       "roberts": "625"
     },
     {
@@ -1496,6 +1623,7 @@
       "scientific": "Buteo rufofuscus",
       "family": "Accipitridae",
       "image": "./assets/birds/jackal-buzzard.webp",
+      "spanish": "Busardo augur meridional",
       "roberts": "152"
     },
     {
@@ -1504,6 +1632,7 @@
       "scientific": "Clamator jacobinus",
       "family": "Cuculidae",
       "image": "./assets/birds/jacobin-cuckoo.webp",
+      "spanish": "Críalo Blanquinegro",
       "roberts": "382"
     },
     {
@@ -1512,6 +1641,7 @@
       "scientific": "Cercotrichas paena",
       "family": "Muscicapidae",
       "image": "./assets/birds/kalahari-scrub-robin.webp",
+      "spanish": "Alzacola del Kalahari",
       "roberts": "615"
     },
     {
@@ -1520,6 +1650,7 @@
       "scientific": "Cercomela schlegelii",
       "family": "Muscicapidae",
       "image": "./assets/birds/karoo-chat.webp",
+      "spanish": "Colinegro del Karoo",
       "roberts": "592"
     },
     {
@@ -1528,6 +1659,7 @@
       "scientific": "Prinia maculosa",
       "family": "Cisticolidae",
       "image": "./assets/birds/karoo-prinia.webp",
+      "spanish": "Prinia del Karoo",
       "roberts": "686"
     },
     {
@@ -1536,6 +1668,7 @@
       "scientific": "Turdus smithi",
       "family": "Turdidae",
       "image": "./assets/birds/karoo-thrush.webp",
+      "spanish": "Zorzal del Karoo",
       "roberts": "577"
     },
     {
@@ -1544,6 +1677,7 @@
       "scientific": "Sarkidiornis melanotos",
       "family": "Anatidae",
       "image": "./assets/birds/knob-billed-duck.webp",
+      "spanish": "Pato crestudo africano",
       "roberts": "115"
     },
     {
@@ -1552,6 +1686,7 @@
       "scientific": "Ardeotis kori",
       "family": "Otididae",
       "image": "./assets/birds/kori-bustard.webp",
+      "spanish": "Avutarda kori",
       "roberts": "230"
     },
     {
@@ -1560,6 +1695,7 @@
       "scientific": "Turnix sylvaticus",
       "family": "Turnicidae",
       "image": "./assets/birds/kurrichane-buttonquail.webp",
+      "spanish": "Torillo Andaluz",
       "roberts": "205"
     },
     {
@@ -1568,6 +1704,7 @@
       "scientific": "Falco biarmicus",
       "family": "Falconidae",
       "image": "./assets/birds/lanner-falcon.webp",
+      "spanish": "Halcón Borní",
       "roberts": "172"
     },
     {
@@ -1576,6 +1713,7 @@
       "scientific": "Aegypius tracheliotus",
       "family": "Accipitridae",
       "image": "./assets/birds/lappet-faced-vulture.webp",
+      "spanish": "Buitre Orejudo",
       "roberts": "124"
     },
     {
@@ -1584,6 +1722,7 @@
       "scientific": "Emberiza impetuani",
       "family": "Emberizidae",
       "image": "./assets/birds/lark-like-bunting.webp",
+      "spanish": "Escribano Alaudino",
       "roberts": "887"
     },
     {
@@ -1592,6 +1731,7 @@
       "scientific": "Streptopelia senegalensis",
       "family": "Columbidae",
       "image": "./assets/birds/laughing-dove.webp",
+      "spanish": "tórtola del Senegal",
       "roberts": "355"
     },
     {
@@ -1600,6 +1740,7 @@
       "scientific": "Phoenicopterus minor",
       "family": "Phoenicopteridae",
       "image": "./assets/birds/lesser-flamingo.webp",
+      "spanish": "flamenco enano",
       "roberts": "97"
     },
     {
@@ -1608,6 +1749,7 @@
       "scientific": "Lanius minor",
       "family": "Laniidae",
       "image": "./assets/birds/lesser-grey-shrike.webp",
+      "spanish": "Alcaudón chico",
       "roberts": "731"
     },
     {
@@ -1616,6 +1758,7 @@
       "scientific": "Falco naumanni",
       "family": "Falconidae",
       "image": "./assets/birds/lesser-kestrel.webp",
+      "spanish": "Cernicalo primilla",
       "roberts": "183"
     },
     {
@@ -1624,6 +1767,7 @@
       "scientific": "Gallinula angulata",
       "family": "Rallidae",
       "image": "./assets/birds/lesser-moorhen.webp",
+      "spanish": "Gallineta Chica",
       "roberts": "227"
     },
     {
@@ -1632,6 +1776,7 @@
       "scientific": "Hirundo abyssinica",
       "family": "Hirundinidae",
       "image": "./assets/birds/lesser-striped-swallow.webp",
+      "spanish": "golondrina abisinia",
       "roberts": "527"
     },
     {
@@ -1640,6 +1785,7 @@
       "scientific": "Coracias caudatus",
       "family": "Coraciidae",
       "image": "./assets/birds/lilac-breasted-roller.webp",
+      "spanish": "carraca lila",
       "roberts": "447"
     },
     {
@@ -1648,6 +1794,7 @@
       "scientific": "Ixobrychus minutus",
       "family": "Ardeidae",
       "image": "./assets/birds/little-bittern.webp",
+      "spanish": "Avetorillo",
       "roberts": "78"
     },
     {
@@ -1656,6 +1803,7 @@
       "scientific": "Egretta garzetta",
       "family": "Ardeidae",
       "image": "./assets/birds/little-egret.webp",
+      "spanish": "Garceta común",
       "roberts": "67"
     },
     {
@@ -1664,6 +1812,7 @@
       "scientific": "Tachybaptus ruficollis",
       "family": "Podicipedidae",
       "image": "./assets/birds/little-grebe.webp",
+      "spanish": "Zampullín común",
       "roberts": "8"
     },
     {
@@ -1672,6 +1821,7 @@
       "scientific": "Accipiter minullus",
       "family": "Accipitridae",
       "image": "./assets/birds/little-sparrowhawk.webp",
+      "spanish": "Gavilán Chico",
       "roberts": "157"
     },
     {
@@ -1680,6 +1830,7 @@
       "scientific": "Apus affinis",
       "family": "Apodidae",
       "image": "./assets/birds/little-swift.webp",
+      "spanish": "Vencejo moro",
       "roberts": "417"
     },
     {
@@ -1688,6 +1839,7 @@
       "scientific": "Sylvietta rufescens",
       "family": "Macrosphenidae",
       "image": "./assets/birds/long-billed-crombec.webp",
+      "spanish": "Crombec Piquilargo",
       "roberts": "651"
     },
     {
@@ -1696,6 +1848,7 @@
       "scientific": "Anthus similis",
       "family": "Motacillidae",
       "image": "./assets/birds/long-billed-pipit.webp",
+      "spanish": "Bisbita Piquilarga",
       "roberts": "717"
     },
     {
@@ -1704,6 +1857,7 @@
       "scientific": "Stercorarius longicaudus",
       "family": "Stercorariidae",
       "image": "./assets/birds/long-tailed-jaeger.webp",
+      "spanish": "Salteador cola larga",
       "roberts": "308"
     },
     {
@@ -1712,6 +1866,7 @@
       "scientific": "Neotis ludwigii",
       "family": "Otididae",
       "image": "./assets/birds/ludwigs-bustard.webp",
+      "spanish": "Avutarda de Namibia",
       "roberts": "232"
     },
     {
@@ -1720,6 +1875,7 @@
       "scientific": "Leptoptilos crumeniferus",
       "family": "Ciconiidae",
       "image": "./assets/birds/marabou-stork.webp",
+      "spanish": "Marabú africano",
       "roberts": "89"
     },
     {
@@ -1728,6 +1884,7 @@
       "scientific": "Bradornis mariquensis",
       "family": "Muscicapidae",
       "image": "./assets/birds/marico-flycatcher.webp",
+      "spanish": "papamoscas del Marico",
       "roberts": "695"
     },
     {
@@ -1736,6 +1893,7 @@
       "scientific": "Cinnyris mariquensis",
       "family": "Nectariniidae",
       "image": "./assets/birds/marico-sunbird.webp",
+      "spanish": "suimanga del Marico",
       "roberts": "779"
     },
     {
@@ -1744,6 +1902,7 @@
       "scientific": "Asio capensis",
       "family": "Strigidae",
       "image": "./assets/birds/marsh-owl.webp",
+      "spanish": "Búho moro",
       "roberts": "395"
     },
     {
@@ -1752,6 +1911,7 @@
       "scientific": "Tringa stagnatilis",
       "family": "Scolopacidae",
       "image": "./assets/birds/marsh-sandpiper.webp",
+      "spanish": "Patamarilla Euroasiática",
       "roberts": "269"
     },
     {
@@ -1760,6 +1920,7 @@
       "scientific": "Polemaetus bellicosus",
       "family": "Accipitridae",
       "image": "./assets/birds/martial-eagle.webp",
+      "spanish": "Águila marcial",
       "roberts": "140"
     },
     {
@@ -1768,6 +1929,7 @@
       "scientific": "Mirafra passerina",
       "family": "Alaudidae",
       "image": "./assets/birds/monotonous-lark.webp",
+      "spanish": "Alondra Monótona",
       "roberts": "493"
     },
     {
@@ -1776,6 +1938,7 @@
       "scientific": "Circus pygargus",
       "family": "Accipitridae",
       "image": "./assets/birds/montagus-harrier.webp",
+      "spanish": "Aguilucho cenizo",
       "roberts": "166"
     },
     {
@@ -1784,6 +1947,7 @@
       "scientific": "Oenanthe monticola",
       "family": "Muscicapidae",
       "image": "./assets/birds/mountain-wheatear.webp",
+      "spanish": "Zorzal Hormiguero Montano",
       "roberts": "586"
     },
     {
@@ -1792,6 +1956,7 @@
       "scientific": "Oena capensis",
       "family": "Columbidae",
       "image": "./assets/birds/namaqua-dove.webp",
+      "spanish": "Tortolita Rabilarga",
       "roberts": "356"
     },
     {
@@ -1800,6 +1965,7 @@
       "scientific": "Pterocles namaqua",
       "family": "Pteroclidae",
       "image": "./assets/birds/namaqua-sandgrouse.webp",
+      "spanish": "Ganga Namaqua",
       "roberts": "344"
     },
     {
@@ -1808,6 +1974,7 @@
       "scientific": "Cisticola fulvicapilla",
       "family": "Cisticolidae",
       "image": "./assets/birds/neddicky.webp",
+      "spanish": "Cistícola Coronirrufo",
       "roberts": "681"
     },
     {
@@ -1816,6 +1983,7 @@
       "scientific": "Afrotis afraoides",
       "family": "Otididae",
       "image": "./assets/birds/northern-black-korhaan.webp",
+      "spanish": "Sisón Negro Aliclaro",
       "roberts": "260"
     },
     {
@@ -1824,6 +1992,7 @@
       "scientific": "Accipiter ovampensis",
       "family": "Accipitridae",
       "image": "./assets/birds/ovambo-sparrowhawk.webp",
+      "spanish": "Gavilán del Ovambo",
       "roberts": "156"
     },
     {
@@ -1832,6 +2001,7 @@
       "scientific": "Melierax canorus",
       "family": "Accipitridae",
       "image": "./assets/birds/pale-chanting-goshawk.webp",
+      "spanish": "Azor lagartijero claro",
       "roberts": "162"
     },
     {
@@ -1840,6 +2010,7 @@
       "scientific": "Circus macrourus",
       "family": "Accipitridae",
       "image": "./assets/birds/pallid-harrier.webp",
+      "spanish": "Aguilucho papialbo",
       "roberts": "167"
     },
     {
@@ -1848,6 +2019,7 @@
       "scientific": "Gypohierax angolensis",
       "family": "Accipitridae",
       "image": "./assets/birds/palm-nut-vulture.webp",
+      "spanish": "Buitre palmero",
       "roberts": "147"
     },
     {
@@ -1856,6 +2028,7 @@
       "scientific": "Hirundo dimidiata",
       "family": "Hirundinidae",
       "image": "./assets/birds/pearl-breasted-swallow.webp",
+      "spanish": "Golondrina Perlada",
       "roberts": "523"
     },
     {
@@ -1864,6 +2037,7 @@
       "scientific": "Glaucidium perlatum",
       "family": "Strigidae",
       "image": "./assets/birds/pearl-spotted-owlet.webp",
+      "spanish": "Mochuelo Perlado",
       "roberts": "398"
     },
     {
@@ -1872,6 +2046,7 @@
       "scientific": "Falco peregrinus",
       "family": "Falconidae",
       "image": "./assets/birds/peregrine-falcon.webp",
+      "spanish": "Halcón Peregrino",
       "roberts": "171"
     },
     {
@@ -1880,6 +2055,7 @@
       "scientific": "Recurvirostra avosetta",
       "family": "Recurvirostridae",
       "image": "./assets/birds/pied-avocet.webp",
+      "spanish": "Avoceta Común",
       "roberts": "294"
     },
     {
@@ -1888,6 +2064,7 @@
       "scientific": "Corvus albus",
       "family": "Corvidae",
       "image": "./assets/birds/pied-crow.webp",
+      "spanish": "Cuervo blanco",
       "roberts": "548"
     },
     {
@@ -1896,6 +2073,7 @@
       "scientific": "Pelecanus rufescens",
       "family": "Pelecanidae",
       "image": "./assets/birds/pink-backed-pelican.webp",
+      "spanish": "Pelícano rosado",
       "roberts": "50"
     },
     {
@@ -1904,6 +2082,7 @@
       "scientific": "Spizocorys conirostris",
       "family": "Alaudidae",
       "image": "./assets/birds/pink-billed-lark.webp",
+      "spanish": "Alondra Piquirrosa",
       "roberts": "508"
     },
     {
@@ -1912,6 +2091,7 @@
       "scientific": "Batis pririt",
       "family": "Platysteiridae",
       "image": "./assets/birds/pririt-batis.webp",
+      "spanish": "Batis pririt",
       "roberts": "703"
     },
     {
@@ -1920,6 +2100,7 @@
       "scientific": "Ardea purpurea",
       "family": "Ardeidae",
       "image": "./assets/birds/purple-heron.webp",
+      "spanish": "Garza imperial",
       "roberts": "65"
     },
     {
@@ -1928,6 +2109,7 @@
       "scientific": "Coracias naevius",
       "family": "Coraciidae",
       "image": "./assets/birds/purple-roller.webp",
+      "spanish": "Carraca Coroniparda",
       "roberts": "449"
     },
     {
@@ -1936,6 +2118,7 @@
       "scientific": "Polihierax semitorquatus",
       "family": "Falconidae",
       "image": "./assets/birds/pygmy-falcon.webp",
+      "spanish": "Halconcito africano",
       "roberts": "186"
     },
     {
@@ -1944,6 +2127,7 @@
       "scientific": "Lanius collurio",
       "family": "Laniidae",
       "image": "./assets/birds/red-backed-shrike.webp",
+      "spanish": "Alcaudón dorsirrojo",
       "roberts": "733"
     },
     {
@@ -1952,6 +2136,7 @@
       "scientific": "Bubalornis niger",
       "family": "Ploceidae",
       "image": "./assets/birds/red-billed-buffalo-weaver.webp",
+      "spanish": "Bufalero Piquirrojo",
       "roberts": "798"
     },
     {
@@ -1960,6 +2145,7 @@
       "scientific": "Lagonosticta senegala",
       "family": "Estrildidae",
       "image": "./assets/birds/red-billed-firefinch.webp",
+      "spanish": "Amaranta Senegalesa",
       "roberts": "842"
     },
     {
@@ -1968,6 +2154,7 @@
       "scientific": "Quelea quelea",
       "family": "Ploceidae",
       "image": "./assets/birds/red-billed-quelea.webp",
+      "spanish": "Quelea común",
       "roberts": "821"
     },
     {
@@ -1976,6 +2163,7 @@
       "scientific": "Pternistis adspersus",
       "family": "Phasianidae",
       "image": "./assets/birds/red-billed-spurfowl.webp",
+      "spanish": "Francolín Piquirrojo",
       "roberts": "194"
     },
     {
@@ -1984,6 +2172,7 @@
       "scientific": "Anas erythrorhyncha",
       "family": "Anatidae",
       "image": "./assets/birds/red-billed-teal.webp",
+      "spanish": "Pato de pico rojo",
       "roberts": "108"
     },
     {
@@ -1992,6 +2181,7 @@
       "scientific": "Calandrella cinerea",
       "family": "Alaudidae",
       "image": "./assets/birds/red-capped-lark.webp",
+      "spanish": "Terrera Capirotada",
       "roberts": "507"
     },
     {
@@ -2000,6 +2190,7 @@
       "scientific": "Lophotis ruficrista",
       "family": "Otididae",
       "image": "./assets/birds/red-crested-korhaan.webp",
+      "spanish": "Sisón Moñudo Austral",
       "roberts": "237"
     },
     {
@@ -2008,6 +2199,7 @@
       "scientific": "Urocolius indicus",
       "family": "Coliidae",
       "image": "./assets/birds/red-faced-mousebird.webp",
+      "spanish": "Pájaro Ratón Carirrojo",
       "roberts": "426"
     },
     {
@@ -2016,6 +2208,7 @@
       "scientific": "Falco vespertinus",
       "family": "Falconidae",
       "image": "./assets/birds/red-footed-falcon.webp",
+      "spanish": "Cernícalo patirrojo",
       "roberts": "179"
     },
     {
@@ -2024,6 +2217,7 @@
       "scientific": "Amadina erythrocephala",
       "family": "Estrildidae",
       "image": "./assets/birds/red-headed-finch.webp",
+      "spanish": "Estrilda Cabecirroja",
       "roberts": "856"
     },
     {
@@ -2032,6 +2226,7 @@
       "scientific": "Fulica cristata",
       "family": "Rallidae",
       "image": "./assets/birds/red-knobbed-coot.webp",
+      "spanish": "Focha cornuda",
       "roberts": "228"
     },
     {
@@ -2040,6 +2235,7 @@
       "scientific": "Falco chicquera",
       "family": "Falconidae",
       "image": "./assets/birds/red-necked-falcon.webp",
+      "spanish": "Alcotán Turumti",
       "roberts": "178"
     },
     {
@@ -2048,6 +2244,7 @@
       "scientific": "Phalacrocorax africanus",
       "family": "Phalacrocoracidae",
       "image": "./assets/birds/reed-cormorant.webp",
+      "spanish": "Cormorán africano",
       "roberts": "58"
     },
     {
@@ -2056,6 +2253,7 @@
       "scientific": "Anthus richardi",
       "family": "Motacillidae",
       "image": "./assets/birds/richards-pipit.webp",
+      "spanish": "bisbita de Richard",
       "roberts": "716"
     },
     {
@@ -2064,6 +2262,7 @@
       "scientific": "Streptopelia capicola",
       "family": "Columbidae",
       "image": "./assets/birds/ring-necked-dove.webp",
+      "spanish": "Tórtola de El Cabo",
       "roberts": "354"
     },
     {
@@ -2072,6 +2271,7 @@
       "scientific": "Columba livia",
       "family": "Columbidae",
       "image": "./assets/birds/rock-dove.webp",
+      "spanish": "Paloma Doméstica",
       "roberts": "348"
     },
     {
@@ -2080,6 +2280,7 @@
       "scientific": "Falco rupicolus",
       "family": "Falconidae",
       "image": "./assets/birds/rock-kestrel.webp",
+      "spanish": "Cernícalo Africano",
       "roberts": "181"
     },
     {
@@ -2088,6 +2289,7 @@
       "scientific": "Hirundo fuligula",
       "family": "Hirundinidae",
       "image": "./assets/birds/rock-martin.webp",
+      "spanish": "Avión Isabelino",
       "roberts": "529"
     },
     {
@@ -2096,6 +2298,7 @@
       "scientific": "Agapornis roseicollis",
       "family": "Psittaculidae",
       "image": "./assets/birds/rosy-faced-lovebird.webp",
+      "spanish": "Periquito de Namibia",
       "roberts": "367"
     },
     {
@@ -2104,6 +2307,7 @@
       "scientific": "Philomachus pugnax",
       "family": "Scolopacidae",
       "image": "./assets/birds/ruff.webp",
+      "spanish": "Playero Combatiente",
       "roberts": "284"
     },
     {
@@ -2112,6 +2316,7 @@
       "scientific": "Caprimulgus rufigena",
       "family": "Caprimulgidae",
       "image": "./assets/birds/rufous-cheeked-nightjar.webp",
+      "spanish": "Chotacabras Carirrojo",
       "roberts": "406"
     },
     {
@@ -2120,6 +2325,7 @@
       "scientific": "Malcorus pectoralis",
       "family": "Cisticolidae",
       "image": "./assets/birds/rufous-eared-warbler.webp",
+      "spanish": "Prinia Carirrufa",
       "roberts": "688"
     },
     {
@@ -2128,6 +2334,7 @@
       "scientific": "Calendulauda sabota",
       "family": "Alaudidae",
       "image": "./assets/birds/sabota-lark.webp",
+      "spanish": "Alondra Sabota",
       "roberts": "498"
     },
     {
@@ -2136,6 +2343,7 @@
       "scientific": "Ephippiorhynchus senegalensis",
       "family": "Ciconiidae",
       "image": "./assets/birds/saddle-billed-stork.webp",
+      "spanish": "Cigueña pico de silla de montar",
       "roberts": "88"
     },
     {
@@ -2144,6 +2352,7 @@
       "scientific": "Sporopipes squamifrons",
       "family": "Ploceidae",
       "image": "./assets/birds/scaly-feathered-finch.webp",
+      "spanish": "Tejedorcito escamoso",
       "roberts": "806"
     },
     {
@@ -2152,6 +2361,7 @@
       "scientific": "Spizocorys sclateri",
       "family": "Alaudidae",
       "image": "./assets/birds/sclaters-lark.webp",
+      "spanish": "Alondra de Sclater",
       "roberts": "510"
     },
     {
@@ -2160,6 +2370,7 @@
       "scientific": "Sagittarius serpentarius",
       "family": "Sagittariidae",
       "image": "./assets/birds/secretarybird.webp",
+      "spanish": "Secretario",
       "roberts": "118"
     },
     {
@@ -2168,6 +2379,7 @@
       "scientific": "Vidua regia",
       "family": "Viduidae",
       "image": "./assets/birds/shaft-tailed-whydah.webp",
+      "spanish": "Viuda Real",
       "roberts": "861"
     },
     {
@@ -2176,6 +2388,7 @@
       "scientific": "Accipiter badius",
       "family": "Accipitridae",
       "image": "./assets/birds/shikra.webp",
+      "spanish": "Gavilán Chikra",
       "roberts": "159"
     },
     {
@@ -2184,6 +2397,7 @@
       "scientific": "Monticola brevipes",
       "family": "Muscicapidae",
       "image": "./assets/birds/short-toed-rock-thrush.webp",
+      "spanish": "Roquero de Namibia",
       "roberts": "583"
     },
     {
@@ -2192,6 +2406,7 @@
       "scientific": "Philetairus socius",
       "family": "Ploceidae",
       "image": "./assets/birds/sociable-weaver.webp",
+      "spanish": "tejedor republicano",
       "roberts": "800"
     },
     {
@@ -2200,6 +2415,7 @@
       "scientific": "Hirundo spilodera",
       "family": "Hirundinidae",
       "image": "./assets/birds/south-african-cliff-swallow.webp",
+      "spanish": "Golondrina Sudafricana",
       "roberts": "528"
     },
     {
@@ -2208,6 +2424,7 @@
       "scientific": "Tadorna cana",
       "family": "Anatidae",
       "image": "./assets/birds/south-african-shelduck.webp",
+      "spanish": "Tarro sudafricano",
       "roberts": "103"
     },
     {
@@ -2216,6 +2433,7 @@
       "scientific": "Lanius collaris",
       "family": "Laniidae",
       "image": "./assets/birds/southern-fiscal.webp",
+      "spanish": "Alcaudón Fiscal",
       "roberts": "732"
     },
     {
@@ -2224,6 +2442,7 @@
       "scientific": "Passer diffusus",
       "family": "Passeridae",
       "image": "./assets/birds/southern-grey-headed-sparrow.webp",
+      "spanish": "Gorrión Sudafricano",
       "roberts": "804"
     },
     {
@@ -2232,6 +2451,7 @@
       "scientific": "Ploceus velatus",
       "family": "Ploceidae",
       "image": "./assets/birds/southern-masked-weaver.webp",
+      "spanish": "tejedor enmascarado",
       "roberts": "814"
     },
     {
@@ -2240,6 +2460,7 @@
       "scientific": "Turdoides bicolor",
       "family": "Leiothrichidae",
       "image": "./assets/birds/southern-pied-babbler.webp",
+      "spanish": "Turdoide Bicolor",
       "roberts": "563"
     },
     {
@@ -2248,6 +2469,7 @@
       "scientific": "Netta erythrophthalma",
       "family": "Anatidae",
       "image": "./assets/birds/southern-pochard.webp",
+      "spanish": "Pato morado",
       "roberts": "113"
     },
     {
@@ -2256,6 +2478,7 @@
       "scientific": "Euplectes orix",
       "family": "Ploceidae",
       "image": "./assets/birds/southern-red-bishop.webp",
+      "spanish": "Obispo Rojo",
       "roberts": "824"
     },
     {
@@ -2264,6 +2487,7 @@
       "scientific": "Eurocephalus anguitimens",
       "family": "Laniidae",
       "image": "./assets/birds/southern-white-crowned-shrike.webp",
+      "spanish": "Alcaudón Coroniblanco",
       "roberts": "756"
     },
     {
@@ -2272,6 +2496,7 @@
       "scientific": "Tockus leucomelas",
       "family": "Bucerotidae",
       "image": "./assets/birds/southern-yellow-billed-hornbill.webp",
+      "spanish": "Toco piquigualdo sureño",
       "roberts": "459"
     },
     {
@@ -2280,6 +2505,7 @@
       "scientific": "Columba guinea",
       "family": "Columbidae",
       "image": "./assets/birds/speckled-pigeon.webp",
+      "spanish": "Paloma de Guinea",
       "roberts": "349"
     },
     {
@@ -2288,6 +2514,7 @@
       "scientific": "Chersomanes albofasciata",
       "family": "Alaudidae",
       "image": "./assets/birds/spike-heeled-lark.webp",
+      "spanish": "Alondra Espolada",
       "roberts": "506"
     },
     {
@@ -2296,6 +2523,7 @@
       "scientific": "Bubo africanus",
       "family": "Strigidae",
       "image": "./assets/birds/spotted-eagle-owl.webp",
+      "spanish": "Buhó Manchado",
       "roberts": "401"
     },
     {
@@ -2304,6 +2532,7 @@
       "scientific": "Muscicapa striata",
       "family": "Muscicapidae",
       "image": "./assets/birds/spotted-flycatcher.webp",
+      "spanish": "Papamoscas Gris",
       "roberts": "689"
     },
     {
@@ -2312,6 +2541,7 @@
       "scientific": "Burhinus capensis",
       "family": "Burhinidae",
       "image": "./assets/birds/spotted-thick-knee.webp",
+      "spanish": "Alcaraván de El Cabo",
       "roberts": "297"
     },
     {
@@ -2320,6 +2550,7 @@
       "scientific": "Plectropterus gambensis",
       "family": "Anatidae",
       "image": "./assets/birds/spur-winged-goose.webp",
+      "spanish": "Ganso con espolones",
       "roberts": "116"
     },
     {
@@ -2328,6 +2559,7 @@
       "scientific": "Ardeola ralloides",
       "family": "Ardeidae",
       "image": "./assets/birds/squacco-heron.webp",
+      "spanish": "Garcilla cangrejera",
       "roberts": "72"
     },
     {
@@ -2336,6 +2568,7 @@
       "scientific": "Spizocorys starki",
       "family": "Alaudidae",
       "image": "./assets/birds/starks-lark.webp",
+      "spanish": "Alondra de Stark",
       "roberts": "511"
     },
     {
@@ -2344,6 +2577,7 @@
       "scientific": "Buteo buteo vulpinus",
       "family": "Accipitridae",
       "image": "./assets/birds/steppe-buzzard.webp",
+      "spanish": "Busardo ratonero",
       "roberts": "149"
     },
     {
@@ -2352,6 +2586,7 @@
       "scientific": "Aquila nipalensis",
       "family": "Accipitridae",
       "image": "./assets/birds/steppe-eagle.webp",
+      "spanish": "Águila esteparia",
       "roberts": "133"
     },
     {
@@ -2360,6 +2595,7 @@
       "scientific": "Aenigmatolimnas marginalis",
       "family": "Rallidae",
       "image": "./assets/birds/striped-crake.webp",
+      "spanish": "Polluela Culirroja",
       "roberts": "216"
     },
     {
@@ -2368,6 +2604,7 @@
       "scientific": "Halcyon chelicuti",
       "family": "Alcedinidae",
       "image": "./assets/birds/striped-kingfisher.webp",
+      "spanish": "Alción estriado",
       "roberts": "437"
     },
     {
@@ -2376,6 +2613,7 @@
       "scientific": "Merops hirundineus",
       "family": "Meropidae",
       "image": "./assets/birds/swallow-tailed-bee-eater.webp",
+      "spanish": "Abejaruco golondrina",
       "roberts": "445"
     },
     {
@@ -2384,6 +2622,7 @@
       "scientific": "Aquila rapax",
       "family": "Accipitridae",
       "image": "./assets/birds/tawny-eagle.webp",
+      "spanish": "Águila rapaz",
       "roberts": "132"
     },
     {
@@ -2392,6 +2631,7 @@
       "scientific": "Cursorius temminckii",
       "family": "Glareolidae",
       "image": "./assets/birds/temmincks-courser.webp",
+      "spanish": "Corredor Etiópico",
       "roberts": "300"
     },
     {
@@ -2400,6 +2640,7 @@
       "scientific": "Charadrius tricollaris",
       "family": "Charadriidae",
       "image": "./assets/birds/three-banded-plover.webp",
+      "spanish": "chorlitejo tricollar",
       "roberts": "249"
     },
     {
@@ -2408,6 +2649,7 @@
       "scientific": "Cercomela tractrac",
       "family": "Muscicapidae",
       "image": "./assets/birds/tractrac-chat.webp",
+      "spanish": "colinegro tractrac",
       "roberts": "590"
     },
     {
@@ -2416,6 +2658,7 @@
       "scientific": "Bubo lacteus",
       "family": "Strigidae",
       "image": "./assets/birds/verreauxs-eagle-owl.webp",
+      "spanish": "Búho de Verreaux",
       "roberts": "402"
     },
     {
@@ -2424,6 +2667,7 @@
       "scientific": "Granatina granatina",
       "family": "Estrildidae",
       "image": "./assets/birds/violet-eared-waxbill.webp",
+      "spanish": "Granadero Meridional",
       "roberts": "845"
     },
     {
@@ -2432,6 +2676,7 @@
       "scientific": "Aquila wahlbergi",
       "family": "Accipitridae",
       "image": "./assets/birds/wahlbergs-eagle.webp",
+      "spanish": "Águila de Wahlberg",
       "roberts": "135"
     },
     {
@@ -2440,6 +2685,7 @@
       "scientific": "Creatophora cinerea",
       "family": "Sturnidae",
       "image": "./assets/birds/wattled-starling.webp",
+      "spanish": "Estornino Carunculado",
       "roberts": "760"
     },
     {
@@ -2448,6 +2694,7 @@
       "scientific": "Tyto alba",
       "family": "Tytonidae",
       "image": "./assets/birds/western-barn-owl.webp",
+      "spanish": "Lechuza de campanario",
       "roberts": "392"
     },
     {
@@ -2456,6 +2703,7 @@
       "scientific": "Delichon urbicum",
       "family": "Hirundinidae",
       "image": "./assets/birds/western-house-martin.webp",
+      "spanish": "Avión común",
       "roberts": "530"
     },
     {
@@ -2464,6 +2712,7 @@
       "scientific": "Colius colius",
       "family": "Coliidae",
       "image": "./assets/birds/white-backed-mousebird.webp",
+      "spanish": "Pájaro Ratón Dorsiblanco",
       "roberts": "425"
     },
     {
@@ -2472,6 +2721,7 @@
       "scientific": "Gyps africanus",
       "family": "Accipitridae",
       "image": "./assets/birds/white-backed-vulture.webp",
+      "spanish": "Buitre dorsiblanco africano",
       "roberts": "123"
     },
     {
@@ -2480,6 +2730,7 @@
       "scientific": "Phalacrocorax lucidus",
       "family": "Phalacrocoracidae",
       "image": "./assets/birds/white-breasted-cormorant.webp",
+      "spanish": "cormorán grande africano",
       "roberts": "55"
     },
     {
@@ -2488,6 +2739,7 @@
       "scientific": "Plocepasser mahali",
       "family": "Ploceidae",
       "image": "./assets/birds/white-browed-sparrow-weaver.webp",
+      "spanish": "Tejedor-gorrión cejiblanco",
       "roberts": "799"
     },
     {
@@ -2496,6 +2748,7 @@
       "scientific": "Ptilopsis granti",
       "family": "Strigidae",
       "image": "./assets/birds/white-faced-owl.webp",
+      "spanish": "Autillo cariblanco sureño",
       "roberts": "397"
     },
     {
@@ -2504,6 +2757,7 @@
       "scientific": "Dendrocygna viduata",
       "family": "Anatidae",
       "image": "./assets/birds/white-faced-whistling-duck.webp",
+      "spanish": "Pato careto",
       "roberts": "99"
     },
     {
@@ -2512,6 +2766,7 @@
       "scientific": "Charadrius marginatus",
       "family": "Charadriidae",
       "image": "./assets/birds/white-fronted-plover.webp",
+      "spanish": "Chrolitejo Frentiblanco",
       "roberts": "246"
     },
     {
@@ -2520,6 +2775,7 @@
       "scientific": "Aegypius occipitalis",
       "family": "Accipitridae",
       "image": "./assets/birds/white-headed-vulture.webp",
+      "spanish": "Buitre cabeciblanco",
       "roberts": "125"
     },
     {
@@ -2528,6 +2784,7 @@
       "scientific": "Apus caffer",
       "family": "Apodidae",
       "image": "./assets/birds/white-rumped-swift.webp",
+      "spanish": "Vencejo cafre",
       "roberts": "415"
     },
     {
@@ -2536,6 +2793,7 @@
       "scientific": "Ciconia ciconia",
       "family": "Ciconiidae",
       "image": "./assets/birds/white-stork.webp",
+      "spanish": "Cigüeña blanca",
       "roberts": "83"
     },
     {
@@ -2544,6 +2802,7 @@
       "scientific": "Merops albicollis",
       "family": "Meropidae",
       "image": "./assets/birds/white-throated-bee-eater.webp",
+      "spanish": "Abejaruco Gorgiblanco",
       "roberts": "780"
     },
     {
@@ -2552,6 +2811,7 @@
       "scientific": "Hirundo albigularis",
       "family": "Hirundinidae",
       "image": "./assets/birds/white-throated-swallow.webp",
+      "spanish": "Golondrina Gorgiblanca",
       "roberts": "520"
     },
     {
@@ -2560,6 +2820,7 @@
       "scientific": "Chlidonias leucopterus",
       "family": "Laridae",
       "image": "./assets/birds/white-winged-tern.webp",
+      "spanish": "Fumarel aliblanco",
       "roberts": "339"
     },
     {
@@ -2568,6 +2829,7 @@
       "scientific": "Phylloscopus trochilus",
       "family": "Phylloscopidae",
       "image": "./assets/birds/willow-warbler.webp",
+      "spanish": "Mosquitero musical",
       "roberts": "643"
     },
     {
@@ -2576,6 +2838,7 @@
       "scientific": "Tringa glareola",
       "family": "Scolopacidae",
       "image": "./assets/birds/wood-sandpiper.webp",
+      "spanish": "Andarríos bastardo",
       "roberts": "266"
     },
     {
@@ -2584,6 +2847,7 @@
       "scientific": "Ciconia episcopus",
       "family": "Ciconiidae",
       "image": "./assets/birds/woolly-necked-stork.webp",
+      "spanish": "Cigüeña lanuda",
       "roberts": "86"
     },
     {
@@ -2592,6 +2856,7 @@
       "scientific": "Eremomela icteropygialis",
       "family": "Cisticolidae",
       "image": "./assets/birds/yellow-bellied-eremomela.webp",
+      "spanish": "Eremomela Ventrigualda",
       "roberts": "653"
     },
     {
@@ -2600,6 +2865,7 @@
       "scientific": "Anas undulata",
       "family": "Anatidae",
       "image": "./assets/birds/yellow-billed-duck.webp",
+      "spanish": "Pato de pico amarillo",
       "roberts": "104"
     },
     {
@@ -2608,6 +2874,7 @@
       "scientific": "Egretta intermedia",
       "family": "Ardeidae",
       "image": "./assets/birds/yellow-billed-egret.webp",
+      "spanish": "Garza Intermedia",
       "roberts": "68"
     },
     {
@@ -2616,6 +2883,7 @@
       "scientific": "Milvus aegyptius",
       "family": "Accipitridae",
       "image": "./assets/birds/yellow-billed-kite.webp",
+      "spanish": "Milano negro",
       "roberts": "126"
     },
     {
@@ -2624,6 +2892,7 @@
       "scientific": "Mycteria ibis",
       "family": "Ciconiidae",
       "image": "./assets/birds/yellow-billed-stork.webp",
+      "spanish": "Cigüeña de pico amarillo",
       "roberts": "90"
     },
     {
@@ -2632,6 +2901,7 @@
       "scientific": "Crithagra flaviventris",
       "family": "Fringillidae",
       "image": "./assets/birds/yellow-canary.webp",
+      "spanish": "Serín Amarillo",
       "roberts": "878"
     },
     {
@@ -2640,6 +2910,7 @@
       "scientific": "Euplectes afer",
       "family": "Ploceidae",
       "image": "./assets/birds/yellow-crowned-bishop.webp",
+      "spanish": "Obispo coronigualdo",
       "roberts": "826"
     },
     {
@@ -2648,6 +2919,7 @@
       "scientific": "Cisticola juncidis",
       "family": "Cisticolidae",
       "image": "./assets/birds/zitting-cisticola.webp",
+      "spanish": "Buitrón",
       "roberts": "664"
     }
   ]

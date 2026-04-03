@@ -247,12 +247,14 @@
   {
     "english": "Buffy pipit",
     "scientific": "Anthus vaalensis",
-    "roberts": "719"
+    "roberts": "719",
+    "spanish": "Bisbita del Vaal"
   },
   {
     "english": "Burchell’s coucal",
     "scientific": "Centropus burchellii",
-    "roberts": "391"
+    "roberts": "391",
+    "spanish": "Cucal de Burchell"
   },
   {
     "english": "Burchell’s courser",
@@ -267,7 +269,8 @@
   {
     "english": "Burchell’s starling",
     "scientific": "Lamprotornis australis",
-    "roberts": "762"
+    "roberts": "762",
+    "spanish": "Estornino de Burchell"
   },
   {
     "english": "Cape clapper lark",
@@ -437,7 +440,8 @@
   {
     "english": "Dusky sunbird",
     "scientific": "Cinnyris fuscus",
-    "roberts": "788"
+    "roberts": "788",
+    "spanish": "Suimanga oscuro"
   },
   {
     "english": "Dwarf bittern",
@@ -492,7 +496,8 @@
   {
     "english": "Fairy flycatcher",
     "scientific": "Stenostira scita",
-    "roberts": "706"
+    "roberts": "706",
+    "spanish": "Papamoscas acollarado"
   },
   {
     "english": "Familiar chat",
@@ -647,12 +652,14 @@
   {
     "english": "Kalahari scrub robin",
     "scientific": "Cercotrichas paena",
-    "roberts": "615"
+    "roberts": "615",
+    "spanish": "Alzacola del Kalahari"
   },
   {
     "english": "Karoo chat",
     "scientific": "Cercomela schlegelii",
-    "roberts": "592"
+    "roberts": "592",
+    "spanish": "Colinegro del Karoo"
   },
   {
     "english": "Karoo prinia",
@@ -897,7 +904,8 @@
   {
     "english": "Pririt batis",
     "scientific": "Batis pririt",
-    "roberts": "703"
+    "roberts": "703",
+    "spanish": "Batis pririt"
   },
   {
     "english": "Purple heron",
@@ -1042,7 +1050,8 @@
   {
     "english": "Scaly-feathered finch",
     "scientific": "Sporopipes squamifrons",
-    "roberts": "806"
+    "roberts": "806",
+    "spanish": "Tejedorcito escamoso"
   },
   {
     "english": "Sclater’s lark",
@@ -1167,7 +1176,8 @@
   {
     "english": "Steppe buzzard",
     "scientific": "Buteo buteo vulpinus",
-    "roberts": "149"
+    "roberts": "149",
+    "spanish": "Busardo ratonero"
   },
   {
     "english": "Steppe eagle",
