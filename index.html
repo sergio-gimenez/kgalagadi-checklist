@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#9f3b22">
+  <title>Kgalagadi Checklist</title>
+  <link rel="stylesheet" href="./styles.css?v=4">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="hero">
+      <p class="eyebrow">Offline Safari Tracker</p>
+      <h1>Kgalagadi Mammal Checklist</h1>
+      <p class="intro">Built for three friends. Once this page has loaded, sightings stay in this browser using local storage. If you want the same checklist on another phone, use backup and restore.</p>
+    </header>
+
+    <section class="panel controls-panel">
+      <div class="toolbar">
+        <label class="field">
+          <span>Checklist Name</span>
+          <input id="tracker-name-input" type="text" maxlength="24" placeholder="Kgalagadi Team">
+        </label>
+
+        <label class="field grow">
+          <span>Search</span>
+          <input id="search-input" type="search" placeholder="Lion, guepardo, Felidae...">
+        </label>
+
+        <label class="field">
+          <span>Family</span>
+          <select id="family-filter">
+            <option value="">All families</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="toolbar buttons-row">
+        <button id="backup-button" type="button">Download Backup</button>
+        <button id="restore-button" type="button">Restore Backup</button>
+        <button id="reset-button" type="button" class="danger">Reset All</button>
+        <input id="restore-input" type="file" accept="application/json" hidden>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div id="tracker-card" class="friend-card"></div>
+    </section>
+
+    <section class="summary-grid" id="summary-grid"></section>
+
+    <section id="family-sections" class="family-sections"></section>
+  </main>
+
+  <template id="summary-card-template">
+    <article class="summary-card">
+      <p class="summary-label"></p>
+      <p class="summary-value"></p>
+      <p class="summary-note"></p>
+    </article>
+  </template>
+
+  <template id="animal-card-template">
+    <article class="animal-card">
+      <div class="animal-image-wrap">
+        <img class="animal-image" alt="">
+      </div>
+      <div class="animal-copy">
+        <h3 class="animal-name"></h3>
+        <p class="animal-meta"></p>
+      </div>
+      <div class="animal-actions"></div>
+    </article>
+  </template>
+
+  <script src="./app.js?v=4"></script>
+</body>
+</html>
