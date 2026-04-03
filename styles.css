@@ -83,6 +83,23 @@ h1 {
   flex-wrap: wrap;
 }
 
+.tab-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+
+.tab-button {
+  min-width: 120px;
+}
+
+.tab-button.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
 .toolbar + .toolbar {
   margin-top: 12px;
 }
@@ -262,7 +279,7 @@ button.danger {
 
 .animal-actions {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 8px;
 }
 

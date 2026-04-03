@@ -1,0 +1,356 @@
+[
+  {
+    "english": "African wild cat",
+    "spanish": "Gato salvaje africano",
+    "scientific": "Felis lybica",
+    "family": "Felidae"
+  },
+  {
+    "english": "Black-footed cat",
+    "spanish": "Gato patinegro",
+    "scientific": "Felis nigripes",
+    "family": "Felidae"
+  },
+  {
+    "english": "Caracal",
+    "spanish": "Caracal",
+    "scientific": "Caracal caracal",
+    "family": "Felidae"
+  },
+  {
+    "english": "Cheetah",
+    "spanish": "Guepardo",
+    "scientific": "Acinonyx jubatus",
+    "family": "Felidae"
+  },
+  {
+    "english": "Leopard",
+    "spanish": "Leopardo",
+    "scientific": "Panthera pardus",
+    "family": "Felidae"
+  },
+  {
+    "english": "Lion",
+    "spanish": "Leon",
+    "scientific": "Panthera leo",
+    "family": "Felidae"
+  },
+  {
+    "english": "African wild dog",
+    "spanish": "Perro salvaje africano",
+    "scientific": "Lycaon pictus",
+    "family": "Canidae"
+  },
+  {
+    "english": "Bat-eared fox",
+    "spanish": "Zorro orejudo",
+    "scientific": "Otocyon megalotis",
+    "family": "Canidae"
+  },
+  {
+    "english": "Black-backed jackal",
+    "spanish": "Chacal de lomo negro",
+    "scientific": "Canis mesomelas",
+    "family": "Canidae"
+  },
+  {
+    "english": "Cape fox",
+    "spanish": "Zorro del Cabo",
+    "scientific": "Vulpes chama",
+    "family": "Canidae"
+  },
+  {
+    "english": "Brown hyena",
+    "spanish": "Hiena parda",
+    "scientific": "Hyaena brunnea",
+    "family": "Hyaenidae"
+  },
+  {
+    "english": "Spotted hyena",
+    "spanish": "Hiena manchada",
+    "scientific": "Crocuta crocuta",
+    "family": "Hyaenidae"
+  },
+  {
+    "english": "Meerkat",
+    "spanish": "Suricata",
+    "scientific": "Suricata suricatta",
+    "family": "Herpestidae"
+  },
+  {
+    "english": "Slender mongoose",
+    "spanish": "Mangosta esbelta",
+    "scientific": "Galerella sanguinea",
+    "family": "Herpestidae"
+  },
+  {
+    "english": "Yellow mongoose",
+    "spanish": "Mangosta amarilla",
+    "scientific": "Cynictis penicillata",
+    "family": "Herpestidae"
+  },
+  {
+    "english": "African striped weasel",
+    "spanish": "Comadreja rayada africana",
+    "scientific": "Poecilogale albinucha",
+    "family": "Mustelidae"
+  },
+  {
+    "english": "Honey badger",
+    "spanish": "Tejon de la miel",
+    "scientific": "Mellivora capensis",
+    "family": "Mustelidae"
+  },
+  {
+    "english": "Striped polecat",
+    "spanish": "Turon rayado",
+    "scientific": "Ictonyx striatus",
+    "family": "Mustelidae"
+  },
+  {
+    "english": "Small spotted genet",
+    "spanish": "Gineta comun",
+    "scientific": "Genetta genetta",
+    "family": "Viverridae"
+  },
+  {
+    "english": "Pangolin",
+    "spanish": "Pangolin de Temminck",
+    "scientific": "Manis temminckii",
+    "family": "Manidae"
+  },
+  {
+    "english": "Blue wildebeest",
+    "spanish": "Nu azul",
+    "scientific": "Connochaetes taurinus",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Common duiker",
+    "spanish": "Duiker comun",
+    "scientific": "Sylvicapra grimmia",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Eland",
+    "spanish": "Eland comun",
+    "scientific": "Taurotragus oryx",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Gemsbok",
+    "spanish": "Orix del Cabo",
+    "scientific": "Oryx gazella",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Kudu",
+    "spanish": "Kudu mayor",
+    "scientific": "Tragelaphus strepsiceros",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Red hartebeest",
+    "spanish": "Alcelafo rojo",
+    "scientific": "Alcelaphus buselaphus",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Springbok",
+    "spanish": "Springbok",
+    "scientific": "Antidorcas marsupialis",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Steenbok",
+    "spanish": "Steenbok",
+    "scientific": "Raphicerus campestris",
+    "family": "Bovidae"
+  },
+  {
+    "english": "Giraffe",
+    "spanish": "Jirafa",
+    "scientific": "Giraffa camelopardalis",
+    "family": "Giraffidae"
+  },
+  {
+    "english": "Common warthog",
+    "spanish": "Facoquero comun",
+    "scientific": "Phacochoerus africanus",
+    "family": "Suidae"
+  },
+  {
+    "english": "Chacma baboon",
+    "spanish": "Babuino chacma",
+    "scientific": "Papio ursinus",
+    "family": "Cercopithecidae"
+  },
+  {
+    "english": "Vervet monkey",
+    "spanish": "Mono vervet",
+    "scientific": "Chlorocebus pygerythrus",
+    "family": "Cercopithecidae"
+  },
+  {
+    "english": "Bushveld elephant shrew",
+    "spanish": "Musarana elefante del bushveld",
+    "scientific": "Elephantulus intufi",
+    "family": "Macroscelididae"
+  },
+  {
+    "english": "Round-eared elephant shrew",
+    "spanish": "Musarana elefante de orejas redondas",
+    "scientific": "Macroscelides proboscideus",
+    "family": "Macroscelididae"
+  },
+  {
+    "english": "Aardvark",
+    "spanish": "Cerdo hormiguero",
+    "scientific": "Orycteropus afer",
+    "family": "Orycteropodidae"
+  },
+  {
+    "english": "Cape golden mole",
+    "spanish": "Topo dorado del Cabo",
+    "scientific": "Chrysochloris asiatica",
+    "family": "Chrysochloridae"
+  },
+  {
+    "english": "Southern African hedgehog",
+    "spanish": "Erizo sudafricano",
+    "scientific": "Atelerix frontalis",
+    "family": "Erinaceidae"
+  },
+  {
+    "english": "Desert musk shrew",
+    "spanish": "Musarana almizclera del desierto",
+    "scientific": "Crocidura greenwoodi",
+    "family": "Soricidae"
+  },
+  {
+    "english": "Common mole rat",
+    "spanish": "Rata topo comun",
+    "scientific": "Cryptomys hottentotus",
+    "family": "Bathyergidae"
+  },
+  {
+    "english": "Damara mole rat",
+    "spanish": "Rata topo damarense",
+    "scientific": "Cryptomys damarensis",
+    "family": "Bathyergidae"
+  },
+  {
+    "english": "Brant's climbing mouse",
+    "spanish": "Raton trepador de Brants",
+    "scientific": "Dendromus mesomelas",
+    "family": "Nesomyidae"
+  },
+  {
+    "english": "Large-eared mouse",
+    "spanish": "Raton orejudo",
+    "scientific": "Malacothrix typica",
+    "family": "Nesomyidae"
+  },
+  {
+    "english": "Pouched mouse",
+    "spanish": "Raton de abazones",
+    "scientific": "Saccostomus campestris",
+    "family": "Nesomyidae"
+  },
+  {
+    "english": "Acacia rat",
+    "spanish": "Rata de las acacias",
+    "scientific": "Thallomys paedulcus",
+    "family": "Muridae"
+  },
+  {
+    "english": "African pygmy mouse",
+    "spanish": "Raton pigmeo africano",
+    "scientific": "Mus minutoides",
+    "family": "Muridae"
+  },
+  {
+    "english": "Brant's whistling rat",
+    "spanish": "Rata silbadora de Brants",
+    "scientific": "Parotomys brantsii",
+    "family": "Muridae"
+  },
+  {
+    "english": "Cape short-eared gerbil",
+    "spanish": "Gerbo orejicorto del Cabo",
+    "scientific": "Desmodillus auricularis",
+    "family": "Muridae"
+  },
+  {
+    "english": "Hairy-footed gerbil",
+    "spanish": "Gerbo de patas peludas",
+    "scientific": "Gerbillurus paeba",
+    "family": "Muridae"
+  },
+  {
+    "english": "Highveld gerbil",
+    "spanish": "Gerbo del altiplano",
+    "scientific": "Tatera brantsii",
+    "family": "Muridae"
+  },
+  {
+    "english": "Namaqua rock mouse",
+    "spanish": "Raton roquero namaqua",
+    "scientific": "Aethomys namaquensis",
+    "family": "Muridae"
+  },
+  {
+    "english": "Striped mouse",
+    "spanish": "Raton rayado",
+    "scientific": "Rhabdomys pumilio",
+    "family": "Muridae"
+  },
+  {
+    "english": "Woosnam's desert rat",
+    "spanish": "Rata del desierto de Woosnam",
+    "scientific": "Zelotomys woosnami",
+    "family": "Muridae"
+  },
+  {
+    "english": "Cape ground squirrel",
+    "spanish": "Ardilla terrestre del Cabo",
+    "scientific": "Xerus inauris",
+    "family": "Sciuridae"
+  },
+  {
+    "english": "Cape hare",
+    "spanish": "Liebre del Cabo",
+    "scientific": "Lepus capensis",
+    "family": "Leporidae"
+  },
+  {
+    "english": "Cape porcupine",
+    "spanish": "Puercoespin del Cabo",
+    "scientific": "Hystrix africaeaustralis",
+    "family": "Hystricidae"
+  },
+  {
+    "english": "South African springhare",
+    "spanish": "Liebre saltadora sudafricana",
+    "scientific": "Pedetes capensis",
+    "family": "Pedetidae"
+  },
+  {
+    "english": "Egyptian free-tailed bat",
+    "spanish": "Murcielago egipcio de cola libre",
+    "scientific": "Tadarida aegyptiaca",
+    "family": "Molossidae"
+  },
+  {
+    "english": "Egyptian slit-faced bat",
+    "spanish": "Murcielago egipcio de cara hendida",
+    "scientific": "Nycteris thebaica",
+    "family": "Nycteridae"
+  },
+  {
+    "english": "Cape serotine bat",
+    "spanish": "Serotino del Cabo",
+    "scientific": "Eptesicus capensis",
+    "family": "Vespertilionidae"
+  }
+]

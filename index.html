@@ -5,17 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#9f3b22">
   <title>Kgalagadi Checklist</title>
-  <link rel="stylesheet" href="./styles.css?v=4">
+  <link rel="stylesheet" href="./styles.css?v=5">
 </head>
 <body>
   <main class="app-shell">
     <header class="hero">
       <p class="eyebrow">Offline Safari Tracker</p>
-      <h1>Kgalagadi Mammal Checklist</h1>
-      <p class="intro">Built for three friends. Once this page has loaded, sightings stay in this browser using local storage. If you want the same checklist on another phone, use backup and restore.</p>
+      <h1 id="page-title">Kgalagadi Checklist</h1>
+      <p id="page-intro" class="intro">Offline shared checklist for Kgalagadi. Once this page has loaded, sightings stay in this browser using local storage.</p>
     </header>
 
     <section class="panel controls-panel">
+      <div id="category-tabs" class="tab-row"></div>
+
       <div class="toolbar">
         <label class="field">
           <span>Checklist Name</span>
@@ -73,6 +75,7 @@
     </article>
   </template>
 
-  <script src="./app.js?v=4"></script>
+  <script src="./data/checklists.js?v=1"></script>
+  <script src="./app.js?v=5"></script>
 </body>
 </html>

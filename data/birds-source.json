@@ -1,0 +1,1362 @@
+[
+  {
+    "english": "Abdim’s stork",
+    "scientific": "Ciconia abdimii",
+    "roberts": "85"
+  },
+  {
+    "english": "Acacia pied barbet",
+    "scientific": "Tricholaema leucomelas",
+    "roberts": "465"
+  },
+  {
+    "english": "African crake",
+    "scientific": "Crecopsis egregia",
+    "roberts": "212"
+  },
+  {
+    "english": "African cuckoo",
+    "scientific": "Cuculus gularis",
+    "roberts": "375"
+  },
+  {
+    "english": "African fish eagle",
+    "scientific": "Haliaeetus vocifer",
+    "roberts": "148"
+  },
+  {
+    "english": "African grey hornbill",
+    "scientific": "Tockus nasutus",
+    "roberts": "457"
+  },
+  {
+    "english": "African harrier-hawk",
+    "scientific": "Polyboroides typus",
+    "roberts": "169"
+  },
+  {
+    "english": "African hoopoe",
+    "scientific": "Upupa africana",
+    "roberts": "451"
+  },
+  {
+    "english": "African jacana",
+    "scientific": "Actophilornis africanus",
+    "roberts": "240"
+  },
+  {
+    "english": "African paradise flycatcher",
+    "scientific": "Terpsiphone viridis",
+    "roberts": "710"
+  },
+  {
+    "english": "African quailfinch",
+    "scientific": "Ortygospiza atricollis",
+    "roberts": "852"
+  },
+  {
+    "english": "African red-eyed bulbul",
+    "scientific": "Pycnonotus nigricans",
+    "roberts": "567"
+  },
+  {
+    "english": "African reed warbler",
+    "scientific": "Acrocephalus baeticatus",
+    "roberts": "631"
+  },
+  {
+    "english": "African sacred ibis",
+    "scientific": "Threskiornis aethiopicus",
+    "roberts": "91"
+  },
+  {
+    "english": "African scops owl",
+    "scientific": "Otus senegalensis",
+    "roberts": "396"
+  },
+  {
+    "english": "African spoonbill",
+    "scientific": "Platalea alba",
+    "roberts": "95"
+  },
+  {
+    "english": "African stonechat",
+    "scientific": "Saxicola torquatus",
+    "roberts": "596"
+  },
+  {
+    "english": "African swamphen",
+    "scientific": "Porphyrio madagascariensis",
+    "roberts": "223"
+  },
+  {
+    "english": "Alpine swift",
+    "scientific": "Tachymarptis melba",
+    "roberts": "418"
+  },
+  {
+    "english": "Amur falcon",
+    "scientific": "Falco amurensis",
+    "roberts": "180"
+  },
+  {
+    "english": "Ant-eating chat",
+    "scientific": "Myrmecocichla formicivora",
+    "roberts": "595"
+  },
+  {
+    "english": "Ashy tit",
+    "scientific": "Parus cinerascens",
+    "roberts": "552"
+  },
+  {
+    "english": "Barn swallow",
+    "scientific": "Hirundo rustica",
+    "roberts": "518"
+  },
+  {
+    "english": "Bateleur",
+    "scientific": "Terathopius ecaudatus",
+    "roberts": "146"
+  },
+  {
+    "english": "Bearded woodpecker",
+    "scientific": "Dendropicos namaquus",
+    "roberts": "487"
+  },
+  {
+    "english": "Bennett’s woodpecker",
+    "scientific": "Campethera bennettii",
+    "roberts": "481"
+  },
+  {
+    "english": "Black-chested prinia",
+    "scientific": "Prinia flavicans",
+    "roberts": "685"
+  },
+  {
+    "english": "Black-chested snake eagle",
+    "scientific": "Circaetus pectoralis",
+    "roberts": "143"
+  },
+  {
+    "english": "Black-eared sparrow-lark",
+    "scientific": "Eremopterix australis",
+    "roberts": "517"
+  },
+  {
+    "english": "Black-faced waxbill",
+    "scientific": "Estrilda erythronotos",
+    "roberts": "847"
+  },
+  {
+    "english": "Black harrier",
+    "scientific": "Circus maurus",
+    "roberts": "168"
+  },
+  {
+    "english": "Black-headed canary",
+    "scientific": "Serinus alario",
+    "roberts": "876"
+  },
+  {
+    "english": "Black-headed heron",
+    "scientific": "Ardea melanocephala",
+    "roberts": "63"
+  },
+  {
+    "english": "Black kite",
+    "scientific": "Milvus migrans",
+    "roberts": "126"
+  },
+  {
+    "english": "Black stork",
+    "scientific": "Ciconia nigra",
+    "roberts": "84"
+  },
+  {
+    "english": "Black-throated canary",
+    "scientific": "Crithagra atrogularis",
+    "roberts": "870"
+  },
+  {
+    "english": "Black-winged kite",
+    "scientific": "Elanus caeruleus",
+    "roberts": "127"
+  },
+  {
+    "english": "Black-winged pratincole",
+    "scientific": "Glareola nordmanni",
+    "roberts": "305"
+  },
+  {
+    "english": "Black-winged stilt",
+    "scientific": "Himantopus himantopus",
+    "roberts": "295"
+  },
+  {
+    "english": "Blacksmith lapwing",
+    "scientific": "Vanellus armatus",
+    "roberts": "258"
+  },
+  {
+    "english": "Bokmakierie",
+    "scientific": "Telophorus zeylonus",
+    "roberts": "746"
+  },
+  {
+    "english": "Booted eagle",
+    "scientific": "Aquila pennatus",
+    "roberts": "136"
+  },
+  {
+    "english": "Bradfield’s swift",
+    "scientific": "Apus bradfieldi",
+    "roberts": "413"
+  },
+  {
+    "english": "Bronze-winged courser",
+    "scientific": "Rhinoptilus chalcopterus",
+    "roberts": "303"
+  },
+  {
+    "english": "Brown-crowned tchagra",
+    "scientific": "Tchagra australis",
+    "roberts": "743"
+  },
+  {
+    "english": "Brown snake eagle",
+    "scientific": "Circaetus cinereus",
+    "roberts": "142"
+  },
+  {
+    "english": "Brown-throated martin",
+    "scientific": "Riparia paludicola",
+    "roberts": "533"
+  },
+  {
+    "english": "Brubru",
+    "scientific": "Nilaus afer",
+    "roberts": "741"
+  },
+  {
+    "english": "Buff-spotted flufftail",
+    "scientific": "Sarothrura elegans",
+    "roberts": "218"
+  },
+  {
+    "english": "Buffy pipit",
+    "scientific": "Anthus vaalensis",
+    "roberts": "719"
+  },
+  {
+    "english": "Burchell’s coucal",
+    "scientific": "Centropus burchellii",
+    "roberts": "391"
+  },
+  {
+    "english": "Burchell’s courser",
+    "scientific": "Cursorius rufus",
+    "roberts": "299"
+  },
+  {
+    "english": "Burchell’s sandgrouse",
+    "scientific": "Pterocles burchelli",
+    "roberts": "345"
+  },
+  {
+    "english": "Burchell’s starling",
+    "scientific": "Lamprotornis australis",
+    "roberts": "762"
+  },
+  {
+    "english": "Cape clapper lark",
+    "scientific": "Mirafra apiata",
+    "roberts": "495"
+  },
+  {
+    "english": "Cape crow",
+    "scientific": "Corvus capensis",
+    "roberts": "547"
+  },
+  {
+    "english": "Cape glossy starling",
+    "scientific": "Lamprotornis nitens",
+    "roberts": "764"
+  },
+  {
+    "english": "Cape penduline tit",
+    "scientific": "Anthoscopus minutus",
+    "roberts": "557"
+  },
+  {
+    "english": "Cape shoveler",
+    "scientific": "Anas smithii",
+    "roberts": "112"
+  },
+  {
+    "english": "Cape sparrow",
+    "scientific": "Passer melanurus",
+    "roberts": "803"
+  },
+  {
+    "english": "Cape teal",
+    "scientific": "Anas capensis",
+    "roberts": "106"
+  },
+  {
+    "english": "Cape vulture",
+    "scientific": "Gyps coprotheres",
+    "roberts": "122"
+  },
+  {
+    "english": "Cape wagtail",
+    "scientific": "Motacilla capensis",
+    "roberts": "713"
+  },
+  {
+    "english": "Cape white-eye",
+    "scientific": "Zosterops virens",
+    "roberts": "796"
+  },
+  {
+    "english": "Capped wheatear",
+    "scientific": "Oenanthe pileata",
+    "roberts": "587"
+  },
+  {
+    "english": "Cardinal woodpecker",
+    "scientific": "Dendropicos fuscescens",
+    "roberts": "486"
+  },
+  {
+    "english": "Cattle egret",
+    "scientific": "Ardea ibis",
+    "roberts": "71"
+  },
+  {
+    "english": "Chat flycatcher",
+    "scientific": "Bradornis infuscatus",
+    "roberts": "697"
+  },
+  {
+    "english": "Chestnut-backed sparrow-lark",
+    "scientific": "Eremopterix leucotis",
+    "roberts": "515"
+  },
+  {
+    "english": "Cinnamon-breasted bunting",
+    "scientific": "Emberiza tahapisi",
+    "roberts": "886"
+  },
+  {
+    "english": "Common cuckoo",
+    "scientific": "Cuculus canorus",
+    "roberts": "374"
+  },
+  {
+    "english": "Common greenshank",
+    "scientific": "Tringa nebularia",
+    "roberts": "270"
+  },
+  {
+    "english": "Common ostrich",
+    "scientific": "Struthio camelus",
+    "roberts": "1"
+  },
+  {
+    "english": "Common quail",
+    "scientific": "Coturnix coturnix",
+    "roberts": "200"
+  },
+  {
+    "english": "Common redstart",
+    "scientific": "Phoenicurus phoenicurus",
+    "roberts": "584"
+  },
+  {
+    "english": "Common sandpiper",
+    "scientific": "Actitis hypoleucos",
+    "roberts": "264"
+  },
+  {
+    "english": "Common scimitarbill",
+    "scientific": "Rhinopomastus cyanomelas",
+    "roberts": "454"
+  },
+  {
+    "english": "Common starling",
+    "scientific": "Sturnus vulgaris",
+    "roberts": "757"
+  },
+  {
+    "english": "Common swift",
+    "scientific": "Apus apus",
+    "roberts": "411"
+  },
+  {
+    "english": "Common waxbill",
+    "scientific": "Estrilda astrild",
+    "roberts": "846"
+  },
+  {
+    "english": "Crimson-breasted shrike",
+    "scientific": "Laniarius atrococcineus",
+    "roberts": "739"
+  },
+  {
+    "english": "Crowned lapwing",
+    "scientific": "Vanellus coronatus",
+    "roberts": "255"
+  },
+  {
+    "english": "Curlew sandpiper",
+    "scientific": "Calidris ferruginea",
+    "roberts": "272"
+  },
+  {
+    "english": "Desert cisticola",
+    "scientific": "Cisticola aridulus",
+    "roberts": "665"
+  },
+  {
+    "english": "Diederik cuckoo",
+    "scientific": "Chrysococcyx caprius",
+    "roberts": "386"
+  },
+  {
+    "english": "Double-banded courser",
+    "scientific": "Rhinoptilus africanus",
+    "roberts": "301"
+  },
+  {
+    "english": "Dusky lark",
+    "scientific": "Pinarocorys nigricans",
+    "roberts": "505"
+  },
+  {
+    "english": "Dusky sunbird",
+    "scientific": "Cinnyris fuscus",
+    "roberts": "788"
+  },
+  {
+    "english": "Dwarf bittern",
+    "scientific": "Ixobrychus sturmii",
+    "roberts": "79"
+  },
+  {
+    "english": "Egyptian goose",
+    "scientific": "Alopochen aegyptiaca",
+    "roberts": "102"
+  },
+  {
+    "english": "Eurasian curlew",
+    "scientific": "Numenius arquata",
+    "roberts": "289"
+  },
+  {
+    "english": "Eurasian golden oriole",
+    "scientific": "Oriolus oriolus",
+    "roberts": "543"
+  },
+  {
+    "english": "Eurasian hobby",
+    "scientific": "Falco subbuteo",
+    "roberts": "173"
+  },
+  {
+    "english": "Eurasian sedge warbler",
+    "scientific": "Acrocephalus schoenobaenus",
+    "roberts": "634"
+  },
+  {
+    "english": "Eurasian whimbrel",
+    "scientific": "Numenius phaeopus",
+    "roberts": "290"
+  },
+  {
+    "english": "European bee-eater",
+    "scientific": "Merops apiaster",
+    "roberts": "438"
+  },
+  {
+    "english": "European nightjar",
+    "scientific": "Caprimulgus europaeus",
+    "roberts": "404"
+  },
+  {
+    "english": "European roller",
+    "scientific": "Coracias caudatus",
+    "roberts": "446"
+  },
+  {
+    "english": "Fairy flycatcher",
+    "scientific": "Stenostira scita",
+    "roberts": "706"
+  },
+  {
+    "english": "Familiar chat",
+    "scientific": "Cercomela familiaris",
+    "roberts": "589"
+  },
+  {
+    "english": "Fawn-coloured lark",
+    "scientific": "Calendulauda africanoides",
+    "roberts": "497"
+  },
+  {
+    "english": "Fiscal flycatcher",
+    "scientific": "Sigelus silens",
+    "roberts": "698"
+  },
+  {
+    "english": "Gabar goshawk",
+    "scientific": "Melierax gabar",
+    "roberts": "161"
+  },
+  {
+    "english": "Glossy ibis",
+    "scientific": "Plegadis falcinellus",
+    "roberts": "93"
+  },
+  {
+    "english": "Golden-breasted bunting",
+    "scientific": "Emberiza flaviventris",
+    "roberts": "884"
+  },
+  {
+    "english": "Golden-tailed woodpecker",
+    "scientific": "Campethera abingoni",
+    "roberts": "483"
+  },
+  {
+    "english": "Great egret",
+    "scientific": "Egretta alba",
+    "roberts": "66"
+  },
+  {
+    "english": "Great sparrow",
+    "scientific": "Passer motitensis",
+    "roberts": "802"
+  },
+  {
+    "english": "Great spotted cuckoo",
+    "scientific": "Clamator glandarius",
+    "roberts": "380"
+  },
+  {
+    "english": "Greater kestrel",
+    "scientific": "Falco rupicoloides",
+    "roberts": "182"
+  },
+  {
+    "english": "Greater painted-snipe",
+    "scientific": "Rostratula benghalensis",
+    "roberts": "242"
+  },
+  {
+    "english": "Greater striped swallow",
+    "scientific": "Hirundo cucullata",
+    "roberts": "526"
+  },
+  {
+    "english": "Green-winged pytilia",
+    "scientific": "Pytilia melba",
+    "roberts": "834"
+  },
+  {
+    "english": "Green wood hoopoe",
+    "scientific": "Phoeniculus purpureus",
+    "roberts": "452"
+  },
+  {
+    "english": "Grey-backed sparrow-lark",
+    "scientific": "Eremopterix verticalis",
+    "roberts": "516"
+  },
+  {
+    "english": "Grey go-away-bird",
+    "scientific": "Corythaixoides concolor",
+    "roberts": "373"
+  },
+  {
+    "english": "Grey-headed kingfisher",
+    "scientific": "Halcyon leucocephala",
+    "roberts": "436"
+  },
+  {
+    "english": "Grey heron",
+    "scientific": "Ardea cinerea",
+    "roberts": "62"
+  },
+  {
+    "english": "Grey plover",
+    "scientific": "Pluvialis squatarola",
+    "roberts": "254"
+  },
+  {
+    "english": "Grey wagtail",
+    "scientific": "Motacilla cinerea",
+    "roberts": "715"
+  },
+  {
+    "english": "Groundscraper thrush",
+    "scientific": "Psophocichla litsitsirupa",
+    "roberts": "580"
+  },
+  {
+    "english": "Hamerkop",
+    "scientific": "Scopus umbretta",
+    "roberts": "81"
+  },
+  {
+    "english": "Harlequin quail",
+    "scientific": "Coturnix delegorguei",
+    "roberts": "201"
+  },
+  {
+    "english": "Helmeted guineafowl",
+    "scientific": "Numida meleagris",
+    "roberts": "203"
+  },
+  {
+    "english": "Hooded vulture",
+    "scientific": "Necrosyrtes monachus",
+    "roberts": "121"
+  },
+  {
+    "english": "House sparrow",
+    "scientific": "Passer domesticus",
+    "roberts": "801"
+  },
+  {
+    "english": "Icterine warbler",
+    "scientific": "Hippolais icterina",
+    "roberts": "625"
+  },
+  {
+    "english": "Jackal buzzard",
+    "scientific": "Buteo rufofuscus",
+    "roberts": "152"
+  },
+  {
+    "english": "Jacobin cuckoo",
+    "scientific": "Clamator jacobinus",
+    "roberts": "382"
+  },
+  {
+    "english": "Kalahari scrub robin",
+    "scientific": "Cercotrichas paena",
+    "roberts": "615"
+  },
+  {
+    "english": "Karoo chat",
+    "scientific": "Cercomela schlegelii",
+    "roberts": "592"
+  },
+  {
+    "english": "Karoo prinia",
+    "scientific": "Prinia maculosa",
+    "roberts": "686"
+  },
+  {
+    "english": "Karoo thrush",
+    "scientific": "Turdus smithi",
+    "roberts": "577"
+  },
+  {
+    "english": "Knob-billed duck",
+    "scientific": "Sarkidiornis melanotos",
+    "roberts": "115"
+  },
+  {
+    "english": "Kori bustard",
+    "scientific": "Ardeotis kori",
+    "roberts": "230"
+  },
+  {
+    "english": "Kurrichane buttonquail",
+    "scientific": "Turnix sylvaticus",
+    "roberts": "205"
+  },
+  {
+    "english": "Lanner falcon",
+    "scientific": "Falco biarmicus",
+    "roberts": "172"
+  },
+  {
+    "english": "Lappet-faced vulture",
+    "scientific": "Aegypius tracheliotus",
+    "roberts": "124"
+  },
+  {
+    "english": "Lark-like bunting",
+    "scientific": "Emberiza impetuani",
+    "roberts": "887"
+  },
+  {
+    "english": "Laughing dove",
+    "scientific": "Streptopelia senegalensis",
+    "roberts": "355"
+  },
+  {
+    "english": "Lesser flamingo",
+    "scientific": "Phoenicopterus minor",
+    "roberts": "97"
+  },
+  {
+    "english": "Lesser grey shrike",
+    "scientific": "Lanius minor",
+    "roberts": "731"
+  },
+  {
+    "english": "Lesser kestrel",
+    "scientific": "Falco naumanni",
+    "roberts": "183"
+  },
+  {
+    "english": "Lesser moorhen",
+    "scientific": "Gallinula angulata",
+    "roberts": "227"
+  },
+  {
+    "english": "Lesser striped swallow",
+    "scientific": "Hirundo abyssinica",
+    "roberts": "527"
+  },
+  {
+    "english": "Lilac-breasted roller",
+    "scientific": "Coracias caudatus",
+    "roberts": "447"
+  },
+  {
+    "english": "Little bittern",
+    "scientific": "Ixobrychus minutus",
+    "roberts": "78"
+  },
+  {
+    "english": "Little egret",
+    "scientific": "Egretta garzetta",
+    "roberts": "67"
+  },
+  {
+    "english": "Little grebe",
+    "scientific": "Tachybaptus ruficollis",
+    "roberts": "8"
+  },
+  {
+    "english": "Little sparrowhawk",
+    "scientific": "Accipiter minullus",
+    "roberts": "157"
+  },
+  {
+    "english": "Little swift",
+    "scientific": "Apus affinis",
+    "roberts": "417"
+  },
+  {
+    "english": "Long-billed crombec",
+    "scientific": "Sylvietta rufescens",
+    "roberts": "651"
+  },
+  {
+    "english": "Long-billed pipit",
+    "scientific": "Anthus similis",
+    "roberts": "717"
+  },
+  {
+    "english": "Long-tailed jaeger",
+    "scientific": "Stercorarius longicaudus",
+    "roberts": "308"
+  },
+  {
+    "english": "Ludwig’s bustard",
+    "scientific": "Neotis ludwigii",
+    "roberts": "232"
+  },
+  {
+    "english": "Marabou stork",
+    "scientific": "Leptoptilos crumeniferus",
+    "roberts": "89"
+  },
+  {
+    "english": "Marico flycatcher",
+    "scientific": "Bradornis mariquensis",
+    "roberts": "695"
+  },
+  {
+    "english": "Marico sunbird",
+    "scientific": "Cinnyris mariquensis",
+    "roberts": "779"
+  },
+  {
+    "english": "Marsh owl",
+    "scientific": "Asio capensis",
+    "roberts": "395"
+  },
+  {
+    "english": "Marsh sandpiper",
+    "scientific": "Tringa stagnatilis",
+    "roberts": "269"
+  },
+  {
+    "english": "Martial eagle",
+    "scientific": "Polemaetus bellicosus",
+    "roberts": "140"
+  },
+  {
+    "english": "Monotonous lark",
+    "scientific": "Mirafra passerina",
+    "roberts": "493"
+  },
+  {
+    "english": "Montagu’s harrier",
+    "scientific": "Circus pygargus",
+    "roberts": "166"
+  },
+  {
+    "english": "Mountain wheatear",
+    "scientific": "Oenanthe monticola",
+    "roberts": "586"
+  },
+  {
+    "english": "Namaqua dove",
+    "scientific": "Oena capensis",
+    "roberts": "356"
+  },
+  {
+    "english": "Namaqua sandgrouse",
+    "scientific": "Pterocles namaqua",
+    "roberts": "344"
+  },
+  {
+    "english": "Neddicky",
+    "scientific": "Cisticola fulvicapilla",
+    "roberts": "681"
+  },
+  {
+    "english": "Northern black korhaan",
+    "scientific": "Afrotis afraoides",
+    "roberts": "260"
+  },
+  {
+    "english": "Ovambo sparrowhawk",
+    "scientific": "Accipiter ovampensis",
+    "roberts": "156"
+  },
+  {
+    "english": "Pale chanting goshawk",
+    "scientific": "Melierax canorus",
+    "roberts": "162"
+  },
+  {
+    "english": "Pallid harrier",
+    "scientific": "Circus macrourus",
+    "roberts": "167"
+  },
+  {
+    "english": "Palm-nut vulture",
+    "scientific": "Gypohierax angolensis",
+    "roberts": "147"
+  },
+  {
+    "english": "Pearl-breasted swallow",
+    "scientific": "Hirundo dimidiata",
+    "roberts": "523"
+  },
+  {
+    "english": "Pearl-spotted owlet",
+    "scientific": "Glaucidium perlatum",
+    "roberts": "398"
+  },
+  {
+    "english": "Peregrine falcon",
+    "scientific": "Falco peregrinus",
+    "roberts": "171"
+  },
+  {
+    "english": "Pied avocet",
+    "scientific": "Recurvirostra avosetta",
+    "roberts": "294"
+  },
+  {
+    "english": "Pied crow",
+    "scientific": "Corvus albus",
+    "roberts": "548"
+  },
+  {
+    "english": "Pink-backed pelican",
+    "scientific": "Pelecanus rufescens",
+    "roberts": "50"
+  },
+  {
+    "english": "Pink-billed lark",
+    "scientific": "Spizocorys conirostris",
+    "roberts": "508"
+  },
+  {
+    "english": "Pririt batis",
+    "scientific": "Batis pririt",
+    "roberts": "703"
+  },
+  {
+    "english": "Purple heron",
+    "scientific": "Ardea purpurea",
+    "roberts": "65"
+  },
+  {
+    "english": "Purple roller",
+    "scientific": "Coracias naevius",
+    "roberts": "449"
+  },
+  {
+    "english": "Pygmy falcon",
+    "scientific": "Polihierax semitorquatus",
+    "roberts": "186"
+  },
+  {
+    "english": "Red-backed shrike",
+    "scientific": "Lanius collurio",
+    "roberts": "733"
+  },
+  {
+    "english": "Red-billed buffalo weaver",
+    "scientific": "Bubalornis niger",
+    "roberts": "798"
+  },
+  {
+    "english": "Red-billed firefinch",
+    "scientific": "Lagonosticta senegala",
+    "roberts": "842"
+  },
+  {
+    "english": "Red-billed quelea",
+    "scientific": "Quelea quelea",
+    "roberts": "821"
+  },
+  {
+    "english": "Red-billed spurfowl",
+    "scientific": "Pternistis adspersus",
+    "roberts": "194"
+  },
+  {
+    "english": "Red-billed teal",
+    "scientific": "Anas erythrorhyncha",
+    "roberts": "108"
+  },
+  {
+    "english": "Red-capped lark",
+    "scientific": "Calandrella cinerea",
+    "roberts": "507"
+  },
+  {
+    "english": "Red-crested korhaan",
+    "scientific": "Lophotis ruficrista",
+    "roberts": "237"
+  },
+  {
+    "english": "Red-faced mousebird",
+    "scientific": "Urocolius indicus",
+    "roberts": "426"
+  },
+  {
+    "english": "Red-footed falcon",
+    "scientific": "Falco vespertinus",
+    "roberts": "179"
+  },
+  {
+    "english": "Red-headed finch",
+    "scientific": "Amadina erythrocephala",
+    "roberts": "856"
+  },
+  {
+    "english": "Red-knobbed coot",
+    "scientific": "Fulica cristata",
+    "roberts": "228"
+  },
+  {
+    "english": "Red-necked falcon",
+    "scientific": "Falco chicquera",
+    "roberts": "178"
+  },
+  {
+    "english": "Reed cormorant",
+    "scientific": "Phalacrocorax africanus",
+    "roberts": "58"
+  },
+  {
+    "english": "Richard’s pipit",
+    "scientific": "Anthus richardi",
+    "roberts": "716"
+  },
+  {
+    "english": "Ring-necked dove",
+    "scientific": "Streptopelia capicola",
+    "roberts": "354"
+  },
+  {
+    "english": "Rock dove",
+    "scientific": "Columba livia",
+    "roberts": "348"
+  },
+  {
+    "english": "Rock kestrel",
+    "scientific": "Falco rupicolus",
+    "roberts": "181"
+  },
+  {
+    "english": "Rock martin",
+    "scientific": "Hirundo fuligula",
+    "roberts": "529"
+  },
+  {
+    "english": "Rosy-faced lovebird",
+    "scientific": "Agapornis roseicollis",
+    "roberts": "367"
+  },
+  {
+    "english": "Ruff",
+    "scientific": "Philomachus pugnax",
+    "roberts": "284"
+  },
+  {
+    "english": "Rufous-cheeked nightjar",
+    "scientific": "Caprimulgus rufigena",
+    "roberts": "406"
+  },
+  {
+    "english": "Rufous-eared warbler",
+    "scientific": "Malcorus pectoralis",
+    "roberts": "688"
+  },
+  {
+    "english": "Sabota lark",
+    "scientific": "Calendulauda sabota",
+    "roberts": "498"
+  },
+  {
+    "english": "Saddle-billed stork",
+    "scientific": "Ephippiorhynchus senegalensis",
+    "roberts": "88"
+  },
+  {
+    "english": "Scaly-feathered finch",
+    "scientific": "Sporopipes squamifrons",
+    "roberts": "806"
+  },
+  {
+    "english": "Sclater’s lark",
+    "scientific": "Spizocorys sclateri",
+    "roberts": "510"
+  },
+  {
+    "english": "Secretarybird",
+    "scientific": "Sagittarius serpentarius",
+    "roberts": "118"
+  },
+  {
+    "english": "Shaft-tailed whydah",
+    "scientific": "Vidua regia",
+    "roberts": "861"
+  },
+  {
+    "english": "Shikra",
+    "scientific": "Accipiter badius",
+    "roberts": "159"
+  },
+  {
+    "english": "Short-toed rock thrush",
+    "scientific": "Monticola brevipes",
+    "roberts": "583"
+  },
+  {
+    "english": "Sociable weaver",
+    "scientific": "Philetairus socius",
+    "roberts": "800"
+  },
+  {
+    "english": "South African cliff swallow",
+    "scientific": "Hirundo spilodera",
+    "roberts": "528"
+  },
+  {
+    "english": "South African shelduck",
+    "scientific": "Tadorna cana",
+    "roberts": "103"
+  },
+  {
+    "english": "Southern fiscal",
+    "scientific": "Lanius collaris",
+    "roberts": "732"
+  },
+  {
+    "english": "Southern grey-headed sparrow",
+    "scientific": "Passer diffusus",
+    "roberts": "804"
+  },
+  {
+    "english": "Southern masked weaver",
+    "scientific": "Ploceus velatus",
+    "roberts": "814"
+  },
+  {
+    "english": "Southern pied babbler",
+    "scientific": "Turdoides bicolor",
+    "roberts": "563"
+  },
+  {
+    "english": "Southern pochard",
+    "scientific": "Netta erythrophthalma",
+    "roberts": "113"
+  },
+  {
+    "english": "Southern red bishop",
+    "scientific": "Euplectes orix",
+    "roberts": "824"
+  },
+  {
+    "english": "Southern white-crowned shrike",
+    "scientific": "Eurocephalus anguitimens",
+    "roberts": "756"
+  },
+  {
+    "english": "Southern yellow-billed hornbill",
+    "scientific": "Tockus leucomelas",
+    "roberts": "459"
+  },
+  {
+    "english": "Speckled pigeon",
+    "scientific": "Columba guinea",
+    "roberts": "349"
+  },
+  {
+    "english": "Spike-heeled lark",
+    "scientific": "Chersomanes albofasciata",
+    "roberts": "506"
+  },
+  {
+    "english": "Spotted eagle-owl",
+    "scientific": "Bubo africanus",
+    "roberts": "401"
+  },
+  {
+    "english": "Spotted flycatcher",
+    "scientific": "Muscicapa striata",
+    "roberts": "689"
+  },
+  {
+    "english": "Spotted thick-knee",
+    "scientific": "Burhinus capensis",
+    "roberts": "297"
+  },
+  {
+    "english": "Spur-winged goose",
+    "scientific": "Plectropterus gambensis",
+    "roberts": "116"
+  },
+  {
+    "english": "Squacco heron",
+    "scientific": "Ardeola ralloides",
+    "roberts": "72"
+  },
+  {
+    "english": "Stark’s lark",
+    "scientific": "Spizocorys starki",
+    "roberts": "511"
+  },
+  {
+    "english": "Steppe buzzard",
+    "scientific": "Buteo buteo vulpinus",
+    "roberts": "149"
+  },
+  {
+    "english": "Steppe eagle",
+    "scientific": "Aquila nipalensis",
+    "roberts": "133"
+  },
+  {
+    "english": "Striped crake",
+    "scientific": "Aenigmatolimnas marginalis",
+    "roberts": "216"
+  },
+  {
+    "english": "Striped kingfisher",
+    "scientific": "Halcyon chelicuti",
+    "roberts": "437"
+  },
+  {
+    "english": "Swallow-tailed bee-eater",
+    "scientific": "Merops hirundineus",
+    "roberts": "445"
+  },
+  {
+    "english": "Tawny eagle",
+    "scientific": "Aquila rapax",
+    "roberts": "132"
+  },
+  {
+    "english": "Temminck’s courser",
+    "scientific": "Cursorius temminckii",
+    "roberts": "300"
+  },
+  {
+    "english": "Three-banded plover",
+    "scientific": "Charadrius tricollaris",
+    "roberts": "249"
+  },
+  {
+    "english": "Tractrac chat",
+    "scientific": "Cercomela tractrac",
+    "roberts": "590"
+  },
+  {
+    "english": "Verreaux’s eagle-owl",
+    "scientific": "Bubo lacteus",
+    "roberts": "402"
+  },
+  {
+    "english": "Violet-eared waxbill",
+    "scientific": "Granatina granatina",
+    "roberts": "845"
+  },
+  {
+    "english": "Wahlberg’s eagle",
+    "scientific": "Aquila wahlbergi",
+    "roberts": "135"
+  },
+  {
+    "english": "Wattled starling",
+    "scientific": "Creatophora cinerea",
+    "roberts": "760"
+  },
+  {
+    "english": "Western barn owl",
+    "scientific": "Tyto alba",
+    "roberts": "392"
+  },
+  {
+    "english": "Western house martin",
+    "scientific": "Delichon urbicum",
+    "roberts": "530"
+  },
+  {
+    "english": "White-backed mousebird",
+    "scientific": "Colius colius",
+    "roberts": "425"
+  },
+  {
+    "english": "White-backed vulture",
+    "scientific": "Gyps africanus",
+    "roberts": "123"
+  },
+  {
+    "english": "White-breasted cormorant",
+    "scientific": "Phalacrocorax lucidus",
+    "roberts": "55"
+  },
+  {
+    "english": "White-browed sparrow-weaver",
+    "scientific": "Plocepasser mahali",
+    "roberts": "799"
+  },
+  {
+    "english": "White-faced owl",
+    "scientific": "Ptilopsis granti",
+    "roberts": "397"
+  },
+  {
+    "english": "White-faced whistling duck",
+    "scientific": "Dendrocygna viduata",
+    "roberts": "99"
+  },
+  {
+    "english": "White-fronted plover",
+    "scientific": "Charadrius marginatus",
+    "roberts": "246"
+  },
+  {
+    "english": "White-headed vulture",
+    "scientific": "Aegypius occipitalis",
+    "roberts": "125"
+  },
+  {
+    "english": "White-rumped swift",
+    "scientific": "Apus caffer",
+    "roberts": "415"
+  },
+  {
+    "english": "White stork",
+    "scientific": "Ciconia ciconia",
+    "roberts": "83"
+  },
+  {
+    "english": "White-throated bee-eater",
+    "scientific": "Merops albicollis",
+    "roberts": "780"
+  },
+  {
+    "english": "White-throated swallow",
+    "scientific": "Hirundo albigularis",
+    "roberts": "520"
+  },
+  {
+    "english": "White-winged tern",
+    "scientific": "Chlidonias leucopterus",
+    "roberts": "339"
+  },
+  {
+    "english": "Willow warbler",
+    "scientific": "Phylloscopus trochilus",
+    "roberts": "643"
+  },
+  {
+    "english": "Wood sandpiper",
+    "scientific": "Tringa glareola",
+    "roberts": "266"
+  },
+  {
+    "english": "Woolly-necked stork",
+    "scientific": "Ciconia episcopus",
+    "roberts": "86"
+  },
+  {
+    "english": "Yellow-bellied eremomela",
+    "scientific": "Eremomela icteropygialis",
+    "roberts": "653"
+  },
+  {
+    "english": "Yellow-billed duck",
+    "scientific": "Anas undulata",
+    "roberts": "104"
+  },
+  {
+    "english": "Yellow-billed egret",
+    "scientific": "Egretta intermedia",
+    "roberts": "68"
+  },
+  {
+    "english": "Yellow-billed kite",
+    "scientific": "Milvus aegyptius",
+    "roberts": "126"
+  },
+  {
+    "english": "Yellow-billed stork",
+    "scientific": "Mycteria ibis",
+    "roberts": "90"
+  },
+  {
+    "english": "Yellow canary",
+    "scientific": "Crithagra flaviventris",
+    "roberts": "878"
+  },
+  {
+    "english": "Yellow-crowned bishop",
+    "scientific": "Euplectes afer",
+    "roberts": "826"
+  },
+  {
+    "english": "Zitting cisticola",
+    "scientific": "Cisticola juncidis",
+    "roberts": "664"
+  }
+]

@@ -1,5 +1,5 @@
-const CACHE_NAME = 'kgalagadi-checklist-static-v3';
-const ASSETS = ['./', './index.html', './styles.css', './app.js'];
+const CACHE_NAME = 'kgalagadi-checklist-static-v5';
+const ASSETS = ['./', './index.html', './styles.css?v=5', './app.js?v=5', './data/checklists.js?v=1'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS)));
