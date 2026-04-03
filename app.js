@@ -344,7 +344,7 @@ function resetAll() {
 function fetchVisits() {
   const el = document.querySelector('#visit-counter');
   if (!el) return;
-  fetch('./api/visits')
+    fetch('./counter.json')
     .then((r) => r.json())
     .then((d) => {
       el.textContent = `~${d.visits} visitors · ${d.requests} requests (park access logs)`;
