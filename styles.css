@@ -246,7 +246,7 @@ button.danger {
 
 .animal-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 10px;
 }
 
@@ -325,10 +325,14 @@ button.danger {
   display: none;
 }
 
-@media (min-width: 860px) {
+@media (min-width: 980px) {
   .animal-card {
-    grid-template-columns: 220px minmax(0, 1fr) 360px;
+    grid-template-columns: 220px minmax(0, 1fr);
     align-items: center;
+  }
+
+  .animal-actions {
+    max-width: 220px;
   }
 }
 
@@ -336,6 +340,10 @@ button.danger {
   .app-shell {
     padding-left: 12px;
     padding-right: 12px;
+  }
+
+  .animal-list {
+    grid-template-columns: 1fr;
   }
 
   .animal-actions {
