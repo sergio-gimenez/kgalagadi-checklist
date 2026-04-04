@@ -48,7 +48,7 @@ function init() {
 
   window.addEventListener('load', async () => {
     if ('serviceWorker' in navigator) {
-      await navigator.serviceWorker.register('./sw.js?v=6').catch(() => {});
+      await navigator.serviceWorker.register('./sw.js?v=7').catch(() => {});
     }
     prefetchImages();
     fetchVisits();
@@ -249,6 +249,7 @@ function renderAnimalCard(animal) {
   const key = itemKey(animal);
   const seen = state.sightings[key];
   const image = node.querySelector('.animal-image');
+  const copy = node.querySelector('.animal-copy');
 
   node.querySelector('.animal-name').textContent = animal.english;
   node.querySelector('.animal-meta').innerHTML = animal.roberts
@@ -272,6 +273,7 @@ function renderAnimalCard(animal) {
     renderFamilies();
   });
   actions.append(button);
+  copy.append(actions);
 
   return node;
 }
